@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "LOG-5000",
+    "timestamp": "2025-07-14T00:00:00.000Z",
+    "level": "info",
+    "event": "route recalculated",
+    "source": "GW-01",
+    "latencyMs": 120,
+    "packetLossPercent": 0,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5001",
+    "timestamp": "2025-07-14T01:00:00.000Z",
+    "level": "info",
+    "event": "gateway heartbeat",
+    "source": "LN-002",
+    "latencyMs": 133,
+    "packetLossPercent": 1.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5002",
+    "timestamp": "2025-07-14T02:00:00.000Z",
+    "level": "warning",
+    "event": "packet retry spike",
+    "source": "LN-003",
+    "latencyMs": 146,
+    "packetLossPercent": 3,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5003",
+    "timestamp": "2025-07-14T03:00:00.000Z",
+    "level": "debug",
+    "event": "node woke from sleep",
+    "source": "LN-004",
+    "latencyMs": 159,
+    "packetLossPercent": 4.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5004",
+    "timestamp": "2025-07-14T04:00:00.000Z",
+    "level": "critical",
+    "event": "sensor calibration",
+    "source": "LN-005",
+    "latencyMs": 172,
+    "packetLossPercent": 6,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5005",
+    "timestamp": "2025-07-14T05:00:00.000Z",
+    "level": "info",
+    "event": "alert broadcast",
+    "source": "LN-006",
+    "latencyMs": 185,
+    "packetLossPercent": 7.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5006",
+    "timestamp": "2025-07-14T06:00:00.000Z",
+    "level": "info",
+    "event": "mesh healing completed",
+    "source": "LN-007",
+    "latencyMs": 198,
+    "packetLossPercent": 0,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5007",
+    "timestamp": "2025-07-14T07:00:00.000Z",
+    "level": "warning",
+    "event": "boat position updated",
+    "source": "LN-008",
+    "latencyMs": 211,
+    "packetLossPercent": 1.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5008",
+    "timestamp": "2025-07-14T08:00:00.000Z",
+    "level": "debug",
+    "event": "route recalculated",
+    "source": "LN-009",
+    "latencyMs": 224,
+    "packetLossPercent": 3,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5009",
+    "timestamp": "2025-07-14T09:00:00.000Z",
+    "level": "critical",
+    "event": "gateway heartbeat",
+    "source": "GW-05",
+    "latencyMs": 237,
+    "packetLossPercent": 4.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5010",
+    "timestamp": "2025-07-14T10:00:00.000Z",
+    "level": "info",
+    "event": "packet retry spike",
+    "source": "LN-011",
+    "latencyMs": 250,
+    "packetLossPercent": 6,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5011",
+    "timestamp": "2025-07-14T11:00:00.000Z",
+    "level": "info",
+    "event": "node woke from sleep",
+    "source": "LN-012",
+    "latencyMs": 263,
+    "packetLossPercent": 7.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5012",
+    "timestamp": "2025-07-13T12:00:00.000Z",
+    "level": "warning",
+    "event": "sensor calibration",
+    "source": "LN-013",
+    "latencyMs": 276,
+    "packetLossPercent": 0,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5013",
+    "timestamp": "2025-07-13T13:00:00.000Z",
+    "level": "debug",
+    "event": "alert broadcast",
+    "source": "LN-014",
+    "latencyMs": 289,
+    "packetLossPercent": 1.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5014",
+    "timestamp": "2025-07-13T14:00:00.000Z",
+    "level": "critical",
+    "event": "mesh healing completed",
+    "source": "LN-015",
+    "latencyMs": 302,
+    "packetLossPercent": 3,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5015",
+    "timestamp": "2025-07-13T15:00:00.000Z",
+    "level": "info",
+    "event": "boat position updated",
+    "source": "LN-016",
+    "latencyMs": 315,
+    "packetLossPercent": 4.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5016",
+    "timestamp": "2025-07-13T16:00:00.000Z",
+    "level": "info",
+    "event": "route recalculated",
+    "source": "LN-017",
+    "latencyMs": 328,
+    "packetLossPercent": 6,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5017",
+    "timestamp": "2025-07-13T17:00:00.000Z",
+    "level": "warning",
+    "event": "gateway heartbeat",
+    "source": "LN-018",
+    "latencyMs": 341,
+    "packetLossPercent": 7.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5018",
+    "timestamp": "2025-07-13T18:00:00.000Z",
+    "level": "debug",
+    "event": "packet retry spike",
+    "source": "GW-04",
+    "latencyMs": 354,
+    "packetLossPercent": 0,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5019",
+    "timestamp": "2025-07-13T19:00:00.000Z",
+    "level": "critical",
+    "event": "node woke from sleep",
+    "source": "LN-020",
+    "latencyMs": 367,
+    "packetLossPercent": 1.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5020",
+    "timestamp": "2025-07-13T20:00:00.000Z",
+    "level": "info",
+    "event": "sensor calibration",
+    "source": "LN-021",
+    "latencyMs": 380,
+    "packetLossPercent": 3,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5021",
+    "timestamp": "2025-07-13T21:00:00.000Z",
+    "level": "info",
+    "event": "alert broadcast",
+    "source": "LN-022",
+    "latencyMs": 393,
+    "packetLossPercent": 4.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5022",
+    "timestamp": "2025-07-13T22:00:00.000Z",
+    "level": "warning",
+    "event": "mesh healing completed",
+    "source": "LN-023",
+    "latencyMs": 406,
+    "packetLossPercent": 6,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5023",
+    "timestamp": "2025-07-13T23:00:00.000Z",
+    "level": "debug",
+    "event": "boat position updated",
+    "source": "LN-024",
+    "latencyMs": 419,
+    "packetLossPercent": 7.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5024",
+    "timestamp": "2025-07-12T00:00:00.000Z",
+    "level": "critical",
+    "event": "route recalculated",
+    "source": "LN-025",
+    "latencyMs": 432,
+    "packetLossPercent": 0,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5025",
+    "timestamp": "2025-07-12T01:00:00.000Z",
+    "level": "info",
+    "event": "gateway heartbeat",
+    "source": "LN-026",
+    "latencyMs": 445,
+    "packetLossPercent": 1.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5026",
+    "timestamp": "2025-07-12T02:00:00.000Z",
+    "level": "info",
+    "event": "packet retry spike",
+    "source": "LN-027",
+    "latencyMs": 458,
+    "packetLossPercent": 3,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5027",
+    "timestamp": "2025-07-12T03:00:00.000Z",
+    "level": "warning",
+    "event": "node woke from sleep",
+    "source": "GW-03",
+    "latencyMs": 471,
+    "packetLossPercent": 4.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5028",
+    "timestamp": "2025-07-12T04:00:00.000Z",
+    "level": "debug",
+    "event": "sensor calibration",
+    "source": "LN-029",
+    "latencyMs": 124,
+    "packetLossPercent": 6,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5029",
+    "timestamp": "2025-07-12T05:00:00.000Z",
+    "level": "critical",
+    "event": "alert broadcast",
+    "source": "LN-030",
+    "latencyMs": 137,
+    "packetLossPercent": 7.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5030",
+    "timestamp": "2025-07-12T06:00:00.000Z",
+    "level": "info",
+    "event": "mesh healing completed",
+    "source": "LN-001",
+    "latencyMs": 150,
+    "packetLossPercent": 0,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5031",
+    "timestamp": "2025-07-12T07:00:00.000Z",
+    "level": "info",
+    "event": "boat position updated",
+    "source": "LN-002",
+    "latencyMs": 163,
+    "packetLossPercent": 1.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5032",
+    "timestamp": "2025-07-12T08:00:00.000Z",
+    "level": "warning",
+    "event": "route recalculated",
+    "source": "LN-003",
+    "latencyMs": 176,
+    "packetLossPercent": 3,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5033",
+    "timestamp": "2025-07-12T09:00:00.000Z",
+    "level": "debug",
+    "event": "gateway heartbeat",
+    "source": "LN-004",
+    "latencyMs": 189,
+    "packetLossPercent": 4.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5034",
+    "timestamp": "2025-07-12T10:00:00.000Z",
+    "level": "critical",
+    "event": "packet retry spike",
+    "source": "LN-005",
+    "latencyMs": 202,
+    "packetLossPercent": 6,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5035",
+    "timestamp": "2025-07-12T11:00:00.000Z",
+    "level": "info",
+    "event": "node woke from sleep",
+    "source": "LN-006",
+    "latencyMs": 215,
+    "packetLossPercent": 7.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5036",
+    "timestamp": "2025-07-11T12:00:00.000Z",
+    "level": "info",
+    "event": "sensor calibration",
+    "source": "GW-02",
+    "latencyMs": 228,
+    "packetLossPercent": 0,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5037",
+    "timestamp": "2025-07-11T13:00:00.000Z",
+    "level": "warning",
+    "event": "alert broadcast",
+    "source": "LN-008",
+    "latencyMs": 241,
+    "packetLossPercent": 1.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5038",
+    "timestamp": "2025-07-11T14:00:00.000Z",
+    "level": "debug",
+    "event": "mesh healing completed",
+    "source": "LN-009",
+    "latencyMs": 254,
+    "packetLossPercent": 3,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5039",
+    "timestamp": "2025-07-11T15:00:00.000Z",
+    "level": "critical",
+    "event": "boat position updated",
+    "source": "LN-010",
+    "latencyMs": 267,
+    "packetLossPercent": 4.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5040",
+    "timestamp": "2025-07-11T16:00:00.000Z",
+    "level": "info",
+    "event": "route recalculated",
+    "source": "LN-011",
+    "latencyMs": 280,
+    "packetLossPercent": 6,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5041",
+    "timestamp": "2025-07-11T17:00:00.000Z",
+    "level": "info",
+    "event": "gateway heartbeat",
+    "source": "LN-012",
+    "latencyMs": 293,
+    "packetLossPercent": 7.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5042",
+    "timestamp": "2025-07-11T18:00:00.000Z",
+    "level": "warning",
+    "event": "packet retry spike",
+    "source": "LN-013",
+    "latencyMs": 306,
+    "packetLossPercent": 0,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5043",
+    "timestamp": "2025-07-11T19:00:00.000Z",
+    "level": "debug",
+    "event": "node woke from sleep",
+    "source": "LN-014",
+    "latencyMs": 319,
+    "packetLossPercent": 1.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5044",
+    "timestamp": "2025-07-11T20:00:00.000Z",
+    "level": "critical",
+    "event": "sensor calibration",
+    "source": "LN-015",
+    "latencyMs": 332,
+    "packetLossPercent": 3,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5045",
+    "timestamp": "2025-07-11T21:00:00.000Z",
+    "level": "info",
+    "event": "alert broadcast",
+    "source": "GW-01",
+    "latencyMs": 345,
+    "packetLossPercent": 4.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5046",
+    "timestamp": "2025-07-11T22:00:00.000Z",
+    "level": "info",
+    "event": "mesh healing completed",
+    "source": "LN-017",
+    "latencyMs": 358,
+    "packetLossPercent": 6,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5047",
+    "timestamp": "2025-07-11T23:00:00.000Z",
+    "level": "warning",
+    "event": "boat position updated",
+    "source": "LN-018",
+    "latencyMs": 371,
+    "packetLossPercent": 7.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5048",
+    "timestamp": "2025-07-10T00:00:00.000Z",
+    "level": "debug",
+    "event": "route recalculated",
+    "source": "LN-019",
+    "latencyMs": 384,
+    "packetLossPercent": 0,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5049",
+    "timestamp": "2025-07-10T01:00:00.000Z",
+    "level": "critical",
+    "event": "gateway heartbeat",
+    "source": "LN-020",
+    "latencyMs": 397,
+    "packetLossPercent": 1.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5050",
+    "timestamp": "2025-07-10T02:00:00.000Z",
+    "level": "info",
+    "event": "packet retry spike",
+    "source": "LN-021",
+    "latencyMs": 410,
+    "packetLossPercent": 3,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5051",
+    "timestamp": "2025-07-10T03:00:00.000Z",
+    "level": "info",
+    "event": "node woke from sleep",
+    "source": "LN-022",
+    "latencyMs": 423,
+    "packetLossPercent": 4.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5052",
+    "timestamp": "2025-07-10T04:00:00.000Z",
+    "level": "warning",
+    "event": "sensor calibration",
+    "source": "LN-023",
+    "latencyMs": 436,
+    "packetLossPercent": 6,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5053",
+    "timestamp": "2025-07-10T05:00:00.000Z",
+    "level": "debug",
+    "event": "alert broadcast",
+    "source": "LN-024",
+    "latencyMs": 449,
+    "packetLossPercent": 7.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5054",
+    "timestamp": "2025-07-10T06:00:00.000Z",
+    "level": "critical",
+    "event": "mesh healing completed",
+    "source": "GW-05",
+    "latencyMs": 462,
+    "packetLossPercent": 0,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5055",
+    "timestamp": "2025-07-10T07:00:00.000Z",
+    "level": "info",
+    "event": "boat position updated",
+    "source": "LN-026",
+    "latencyMs": 475,
+    "packetLossPercent": 1.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5056",
+    "timestamp": "2025-07-10T08:00:00.000Z",
+    "level": "info",
+    "event": "route recalculated",
+    "source": "LN-027",
+    "latencyMs": 128,
+    "packetLossPercent": 3,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5057",
+    "timestamp": "2025-07-10T09:00:00.000Z",
+    "level": "warning",
+    "event": "gateway heartbeat",
+    "source": "LN-028",
+    "latencyMs": 141,
+    "packetLossPercent": 4.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5058",
+    "timestamp": "2025-07-10T10:00:00.000Z",
+    "level": "debug",
+    "event": "packet retry spike",
+    "source": "LN-029",
+    "latencyMs": 154,
+    "packetLossPercent": 6,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5059",
+    "timestamp": "2025-07-10T11:00:00.000Z",
+    "level": "critical",
+    "event": "node woke from sleep",
+    "source": "LN-030",
+    "latencyMs": 167,
+    "packetLossPercent": 7.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5060",
+    "timestamp": "2025-07-09T12:00:00.000Z",
+    "level": "info",
+    "event": "sensor calibration",
+    "source": "LN-001",
+    "latencyMs": 180,
+    "packetLossPercent": 0,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5061",
+    "timestamp": "2025-07-09T13:00:00.000Z",
+    "level": "info",
+    "event": "alert broadcast",
+    "source": "LN-002",
+    "latencyMs": 193,
+    "packetLossPercent": 1.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5062",
+    "timestamp": "2025-07-09T14:00:00.000Z",
+    "level": "warning",
+    "event": "mesh healing completed",
+    "source": "LN-003",
+    "latencyMs": 206,
+    "packetLossPercent": 3,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5063",
+    "timestamp": "2025-07-09T15:00:00.000Z",
+    "level": "debug",
+    "event": "boat position updated",
+    "source": "GW-04",
+    "latencyMs": 219,
+    "packetLossPercent": 4.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5064",
+    "timestamp": "2025-07-09T16:00:00.000Z",
+    "level": "critical",
+    "event": "route recalculated",
+    "source": "LN-005",
+    "latencyMs": 232,
+    "packetLossPercent": 6,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5065",
+    "timestamp": "2025-07-09T17:00:00.000Z",
+    "level": "info",
+    "event": "gateway heartbeat",
+    "source": "LN-006",
+    "latencyMs": 245,
+    "packetLossPercent": 7.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5066",
+    "timestamp": "2025-07-09T18:00:00.000Z",
+    "level": "info",
+    "event": "packet retry spike",
+    "source": "LN-007",
+    "latencyMs": 258,
+    "packetLossPercent": 0,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5067",
+    "timestamp": "2025-07-09T19:00:00.000Z",
+    "level": "warning",
+    "event": "node woke from sleep",
+    "source": "LN-008",
+    "latencyMs": 271,
+    "packetLossPercent": 1.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5068",
+    "timestamp": "2025-07-09T20:00:00.000Z",
+    "level": "debug",
+    "event": "sensor calibration",
+    "source": "LN-009",
+    "latencyMs": 284,
+    "packetLossPercent": 3,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5069",
+    "timestamp": "2025-07-09T21:00:00.000Z",
+    "level": "critical",
+    "event": "alert broadcast",
+    "source": "LN-010",
+    "latencyMs": 297,
+    "packetLossPercent": 4.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5070",
+    "timestamp": "2025-07-09T22:00:00.000Z",
+    "level": "info",
+    "event": "mesh healing completed",
+    "source": "LN-011",
+    "latencyMs": 310,
+    "packetLossPercent": 6,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5071",
+    "timestamp": "2025-07-09T23:00:00.000Z",
+    "level": "info",
+    "event": "boat position updated",
+    "source": "LN-012",
+    "latencyMs": 323,
+    "packetLossPercent": 7.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5072",
+    "timestamp": "2025-07-08T00:00:00.000Z",
+    "level": "warning",
+    "event": "route recalculated",
+    "source": "GW-03",
+    "latencyMs": 336,
+    "packetLossPercent": 0,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5073",
+    "timestamp": "2025-07-08T01:00:00.000Z",
+    "level": "debug",
+    "event": "gateway heartbeat",
+    "source": "LN-014",
+    "latencyMs": 349,
+    "packetLossPercent": 1.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5074",
+    "timestamp": "2025-07-08T02:00:00.000Z",
+    "level": "critical",
+    "event": "packet retry spike",
+    "source": "LN-015",
+    "latencyMs": 362,
+    "packetLossPercent": 3,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5075",
+    "timestamp": "2025-07-08T03:00:00.000Z",
+    "level": "info",
+    "event": "node woke from sleep",
+    "source": "LN-016",
+    "latencyMs": 375,
+    "packetLossPercent": 4.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5076",
+    "timestamp": "2025-07-08T04:00:00.000Z",
+    "level": "info",
+    "event": "sensor calibration",
+    "source": "LN-017",
+    "latencyMs": 388,
+    "packetLossPercent": 6,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5077",
+    "timestamp": "2025-07-08T05:00:00.000Z",
+    "level": "warning",
+    "event": "alert broadcast",
+    "source": "LN-018",
+    "latencyMs": 401,
+    "packetLossPercent": 7.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5078",
+    "timestamp": "2025-07-08T06:00:00.000Z",
+    "level": "debug",
+    "event": "mesh healing completed",
+    "source": "LN-019",
+    "latencyMs": 414,
+    "packetLossPercent": 0,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5079",
+    "timestamp": "2025-07-08T07:00:00.000Z",
+    "level": "critical",
+    "event": "boat position updated",
+    "source": "LN-020",
+    "latencyMs": 427,
+    "packetLossPercent": 1.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5080",
+    "timestamp": "2025-07-08T08:00:00.000Z",
+    "level": "info",
+    "event": "route recalculated",
+    "source": "LN-021",
+    "latencyMs": 440,
+    "packetLossPercent": 3,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5081",
+    "timestamp": "2025-07-08T09:00:00.000Z",
+    "level": "info",
+    "event": "gateway heartbeat",
+    "source": "GW-02",
+    "latencyMs": 453,
+    "packetLossPercent": 4.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5082",
+    "timestamp": "2025-07-08T10:00:00.000Z",
+    "level": "warning",
+    "event": "packet retry spike",
+    "source": "LN-023",
+    "latencyMs": 466,
+    "packetLossPercent": 6,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5083",
+    "timestamp": "2025-07-08T11:00:00.000Z",
+    "level": "debug",
+    "event": "node woke from sleep",
+    "source": "LN-024",
+    "latencyMs": 479,
+    "packetLossPercent": 7.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5084",
+    "timestamp": "2025-07-07T12:00:00.000Z",
+    "level": "critical",
+    "event": "sensor calibration",
+    "source": "LN-025",
+    "latencyMs": 132,
+    "packetLossPercent": 0,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5085",
+    "timestamp": "2025-07-07T13:00:00.000Z",
+    "level": "info",
+    "event": "alert broadcast",
+    "source": "LN-026",
+    "latencyMs": 145,
+    "packetLossPercent": 1.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5086",
+    "timestamp": "2025-07-07T14:00:00.000Z",
+    "level": "info",
+    "event": "mesh healing completed",
+    "source": "LN-027",
+    "latencyMs": 158,
+    "packetLossPercent": 3,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5087",
+    "timestamp": "2025-07-07T15:00:00.000Z",
+    "level": "warning",
+    "event": "boat position updated",
+    "source": "LN-028",
+    "latencyMs": 171,
+    "packetLossPercent": 4.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5088",
+    "timestamp": "2025-07-07T16:00:00.000Z",
+    "level": "debug",
+    "event": "route recalculated",
+    "source": "LN-029",
+    "latencyMs": 184,
+    "packetLossPercent": 6,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5089",
+    "timestamp": "2025-07-07T17:00:00.000Z",
+    "level": "critical",
+    "event": "gateway heartbeat",
+    "source": "LN-030",
+    "latencyMs": 197,
+    "packetLossPercent": 7.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5090",
+    "timestamp": "2025-07-07T18:00:00.000Z",
+    "level": "info",
+    "event": "packet retry spike",
+    "source": "GW-01",
+    "latencyMs": 210,
+    "packetLossPercent": 0,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5091",
+    "timestamp": "2025-07-07T19:00:00.000Z",
+    "level": "info",
+    "event": "node woke from sleep",
+    "source": "LN-002",
+    "latencyMs": 223,
+    "packetLossPercent": 1.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5092",
+    "timestamp": "2025-07-07T20:00:00.000Z",
+    "level": "warning",
+    "event": "sensor calibration",
+    "source": "LN-003",
+    "latencyMs": 236,
+    "packetLossPercent": 3,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5093",
+    "timestamp": "2025-07-07T21:00:00.000Z",
+    "level": "debug",
+    "event": "alert broadcast",
+    "source": "LN-004",
+    "latencyMs": 249,
+    "packetLossPercent": 4.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5094",
+    "timestamp": "2025-07-07T22:00:00.000Z",
+    "level": "critical",
+    "event": "mesh healing completed",
+    "source": "LN-005",
+    "latencyMs": 262,
+    "packetLossPercent": 6,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5095",
+    "timestamp": "2025-07-07T23:00:00.000Z",
+    "level": "info",
+    "event": "boat position updated",
+    "source": "LN-006",
+    "latencyMs": 275,
+    "packetLossPercent": 7.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5096",
+    "timestamp": "2025-07-06T00:00:00.000Z",
+    "level": "info",
+    "event": "route recalculated",
+    "source": "LN-007",
+    "latencyMs": 288,
+    "packetLossPercent": 0,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5097",
+    "timestamp": "2025-07-06T01:00:00.000Z",
+    "level": "warning",
+    "event": "gateway heartbeat",
+    "source": "LN-008",
+    "latencyMs": 301,
+    "packetLossPercent": 1.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5098",
+    "timestamp": "2025-07-06T02:00:00.000Z",
+    "level": "debug",
+    "event": "packet retry spike",
+    "source": "LN-009",
+    "latencyMs": 314,
+    "packetLossPercent": 3,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5099",
+    "timestamp": "2025-07-06T03:00:00.000Z",
+    "level": "critical",
+    "event": "node woke from sleep",
+    "source": "GW-05",
+    "latencyMs": 327,
+    "packetLossPercent": 4.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5100",
+    "timestamp": "2025-07-06T04:00:00.000Z",
+    "level": "info",
+    "event": "sensor calibration",
+    "source": "LN-011",
+    "latencyMs": 340,
+    "packetLossPercent": 6,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5101",
+    "timestamp": "2025-07-06T05:00:00.000Z",
+    "level": "info",
+    "event": "alert broadcast",
+    "source": "LN-012",
+    "latencyMs": 353,
+    "packetLossPercent": 7.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5102",
+    "timestamp": "2025-07-06T06:00:00.000Z",
+    "level": "warning",
+    "event": "mesh healing completed",
+    "source": "LN-013",
+    "latencyMs": 366,
+    "packetLossPercent": 0,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5103",
+    "timestamp": "2025-07-06T07:00:00.000Z",
+    "level": "debug",
+    "event": "boat position updated",
+    "source": "LN-014",
+    "latencyMs": 379,
+    "packetLossPercent": 1.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5104",
+    "timestamp": "2025-07-06T08:00:00.000Z",
+    "level": "critical",
+    "event": "route recalculated",
+    "source": "LN-015",
+    "latencyMs": 392,
+    "packetLossPercent": 3,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5105",
+    "timestamp": "2025-07-06T09:00:00.000Z",
+    "level": "info",
+    "event": "gateway heartbeat",
+    "source": "LN-016",
+    "latencyMs": 405,
+    "packetLossPercent": 4.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5106",
+    "timestamp": "2025-07-06T10:00:00.000Z",
+    "level": "info",
+    "event": "packet retry spike",
+    "source": "LN-017",
+    "latencyMs": 418,
+    "packetLossPercent": 6,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5107",
+    "timestamp": "2025-07-06T11:00:00.000Z",
+    "level": "warning",
+    "event": "node woke from sleep",
+    "source": "LN-018",
+    "latencyMs": 431,
+    "packetLossPercent": 7.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5108",
+    "timestamp": "2025-07-05T12:00:00.000Z",
+    "level": "debug",
+    "event": "sensor calibration",
+    "source": "GW-04",
+    "latencyMs": 444,
+    "packetLossPercent": 0,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5109",
+    "timestamp": "2025-07-05T13:00:00.000Z",
+    "level": "critical",
+    "event": "alert broadcast",
+    "source": "LN-020",
+    "latencyMs": 457,
+    "packetLossPercent": 1.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5110",
+    "timestamp": "2025-07-05T14:00:00.000Z",
+    "level": "info",
+    "event": "mesh healing completed",
+    "source": "LN-021",
+    "latencyMs": 470,
+    "packetLossPercent": 3,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5111",
+    "timestamp": "2025-07-05T15:00:00.000Z",
+    "level": "info",
+    "event": "boat position updated",
+    "source": "LN-022",
+    "latencyMs": 123,
+    "packetLossPercent": 4.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5112",
+    "timestamp": "2025-07-05T16:00:00.000Z",
+    "level": "warning",
+    "event": "route recalculated",
+    "source": "LN-023",
+    "latencyMs": 136,
+    "packetLossPercent": 6,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5113",
+    "timestamp": "2025-07-05T17:00:00.000Z",
+    "level": "debug",
+    "event": "gateway heartbeat",
+    "source": "LN-024",
+    "latencyMs": 149,
+    "packetLossPercent": 7.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5114",
+    "timestamp": "2025-07-05T18:00:00.000Z",
+    "level": "critical",
+    "event": "packet retry spike",
+    "source": "LN-025",
+    "latencyMs": 162,
+    "packetLossPercent": 0,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5115",
+    "timestamp": "2025-07-05T19:00:00.000Z",
+    "level": "info",
+    "event": "node woke from sleep",
+    "source": "LN-026",
+    "latencyMs": 175,
+    "packetLossPercent": 1.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5116",
+    "timestamp": "2025-07-05T20:00:00.000Z",
+    "level": "info",
+    "event": "sensor calibration",
+    "source": "LN-027",
+    "latencyMs": 188,
+    "packetLossPercent": 3,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5117",
+    "timestamp": "2025-07-05T21:00:00.000Z",
+    "level": "warning",
+    "event": "alert broadcast",
+    "source": "GW-03",
+    "latencyMs": 201,
+    "packetLossPercent": 4.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5118",
+    "timestamp": "2025-07-05T22:00:00.000Z",
+    "level": "debug",
+    "event": "mesh healing completed",
+    "source": "LN-029",
+    "latencyMs": 214,
+    "packetLossPercent": 6,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5119",
+    "timestamp": "2025-07-05T23:00:00.000Z",
+    "level": "critical",
+    "event": "boat position updated",
+    "source": "LN-030",
+    "latencyMs": 227,
+    "packetLossPercent": 7.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5120",
+    "timestamp": "2025-07-04T00:00:00.000Z",
+    "level": "info",
+    "event": "route recalculated",
+    "source": "LN-001",
+    "latencyMs": 240,
+    "packetLossPercent": 0,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5121",
+    "timestamp": "2025-07-04T01:00:00.000Z",
+    "level": "info",
+    "event": "gateway heartbeat",
+    "source": "LN-002",
+    "latencyMs": 253,
+    "packetLossPercent": 1.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5122",
+    "timestamp": "2025-07-04T02:00:00.000Z",
+    "level": "warning",
+    "event": "packet retry spike",
+    "source": "LN-003",
+    "latencyMs": 266,
+    "packetLossPercent": 3,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5123",
+    "timestamp": "2025-07-04T03:00:00.000Z",
+    "level": "debug",
+    "event": "node woke from sleep",
+    "source": "LN-004",
+    "latencyMs": 279,
+    "packetLossPercent": 4.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5124",
+    "timestamp": "2025-07-04T04:00:00.000Z",
+    "level": "critical",
+    "event": "sensor calibration",
+    "source": "LN-005",
+    "latencyMs": 292,
+    "packetLossPercent": 6,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5125",
+    "timestamp": "2025-07-04T05:00:00.000Z",
+    "level": "info",
+    "event": "alert broadcast",
+    "source": "LN-006",
+    "latencyMs": 305,
+    "packetLossPercent": 7.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5126",
+    "timestamp": "2025-07-04T06:00:00.000Z",
+    "level": "info",
+    "event": "mesh healing completed",
+    "source": "GW-02",
+    "latencyMs": 318,
+    "packetLossPercent": 0,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5127",
+    "timestamp": "2025-07-04T07:00:00.000Z",
+    "level": "warning",
+    "event": "boat position updated",
+    "source": "LN-008",
+    "latencyMs": 331,
+    "packetLossPercent": 1.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5128",
+    "timestamp": "2025-07-04T08:00:00.000Z",
+    "level": "debug",
+    "event": "route recalculated",
+    "source": "LN-009",
+    "latencyMs": 344,
+    "packetLossPercent": 3,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5129",
+    "timestamp": "2025-07-04T09:00:00.000Z",
+    "level": "critical",
+    "event": "gateway heartbeat",
+    "source": "LN-010",
+    "latencyMs": 357,
+    "packetLossPercent": 4.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5130",
+    "timestamp": "2025-07-04T10:00:00.000Z",
+    "level": "info",
+    "event": "packet retry spike",
+    "source": "LN-011",
+    "latencyMs": 370,
+    "packetLossPercent": 6,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5131",
+    "timestamp": "2025-07-04T11:00:00.000Z",
+    "level": "info",
+    "event": "node woke from sleep",
+    "source": "LN-012",
+    "latencyMs": 383,
+    "packetLossPercent": 7.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5132",
+    "timestamp": "2025-07-03T12:00:00.000Z",
+    "level": "warning",
+    "event": "sensor calibration",
+    "source": "LN-013",
+    "latencyMs": 396,
+    "packetLossPercent": 0,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5133",
+    "timestamp": "2025-07-03T13:00:00.000Z",
+    "level": "debug",
+    "event": "alert broadcast",
+    "source": "LN-014",
+    "latencyMs": 409,
+    "packetLossPercent": 1.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5134",
+    "timestamp": "2025-07-03T14:00:00.000Z",
+    "level": "critical",
+    "event": "mesh healing completed",
+    "source": "LN-015",
+    "latencyMs": 422,
+    "packetLossPercent": 3,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5135",
+    "timestamp": "2025-07-03T15:00:00.000Z",
+    "level": "info",
+    "event": "boat position updated",
+    "source": "GW-01",
+    "latencyMs": 435,
+    "packetLossPercent": 4.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5136",
+    "timestamp": "2025-07-03T16:00:00.000Z",
+    "level": "info",
+    "event": "route recalculated",
+    "source": "LN-017",
+    "latencyMs": 448,
+    "packetLossPercent": 6,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5137",
+    "timestamp": "2025-07-03T17:00:00.000Z",
+    "level": "warning",
+    "event": "gateway heartbeat",
+    "source": "LN-018",
+    "latencyMs": 461,
+    "packetLossPercent": 7.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5138",
+    "timestamp": "2025-07-03T18:00:00.000Z",
+    "level": "debug",
+    "event": "packet retry spike",
+    "source": "LN-019",
+    "latencyMs": 474,
+    "packetLossPercent": 0,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5139",
+    "timestamp": "2025-07-03T19:00:00.000Z",
+    "level": "critical",
+    "event": "node woke from sleep",
+    "source": "LN-020",
+    "latencyMs": 127,
+    "packetLossPercent": 1.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5140",
+    "timestamp": "2025-07-03T20:00:00.000Z",
+    "level": "info",
+    "event": "sensor calibration",
+    "source": "LN-021",
+    "latencyMs": 140,
+    "packetLossPercent": 3,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5141",
+    "timestamp": "2025-07-03T21:00:00.000Z",
+    "level": "info",
+    "event": "alert broadcast",
+    "source": "LN-022",
+    "latencyMs": 153,
+    "packetLossPercent": 4.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5142",
+    "timestamp": "2025-07-03T22:00:00.000Z",
+    "level": "warning",
+    "event": "mesh healing completed",
+    "source": "LN-023",
+    "latencyMs": 166,
+    "packetLossPercent": 6,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5143",
+    "timestamp": "2025-07-03T23:00:00.000Z",
+    "level": "debug",
+    "event": "boat position updated",
+    "source": "LN-024",
+    "latencyMs": 179,
+    "packetLossPercent": 7.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5144",
+    "timestamp": "2025-07-02T00:00:00.000Z",
+    "level": "critical",
+    "event": "route recalculated",
+    "source": "GW-05",
+    "latencyMs": 192,
+    "packetLossPercent": 0,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5145",
+    "timestamp": "2025-07-02T01:00:00.000Z",
+    "level": "info",
+    "event": "gateway heartbeat",
+    "source": "LN-026",
+    "latencyMs": 205,
+    "packetLossPercent": 1.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5146",
+    "timestamp": "2025-07-02T02:00:00.000Z",
+    "level": "info",
+    "event": "packet retry spike",
+    "source": "LN-027",
+    "latencyMs": 218,
+    "packetLossPercent": 3,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5147",
+    "timestamp": "2025-07-02T03:00:00.000Z",
+    "level": "warning",
+    "event": "node woke from sleep",
+    "source": "LN-028",
+    "latencyMs": 231,
+    "packetLossPercent": 4.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5148",
+    "timestamp": "2025-07-02T04:00:00.000Z",
+    "level": "debug",
+    "event": "sensor calibration",
+    "source": "LN-029",
+    "latencyMs": 244,
+    "packetLossPercent": 6,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5149",
+    "timestamp": "2025-07-02T05:00:00.000Z",
+    "level": "critical",
+    "event": "alert broadcast",
+    "source": "LN-030",
+    "latencyMs": 257,
+    "packetLossPercent": 7.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5150",
+    "timestamp": "2025-07-02T06:00:00.000Z",
+    "level": "info",
+    "event": "mesh healing completed",
+    "source": "LN-001",
+    "latencyMs": 270,
+    "packetLossPercent": 0,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5151",
+    "timestamp": "2025-07-02T07:00:00.000Z",
+    "level": "info",
+    "event": "boat position updated",
+    "source": "LN-002",
+    "latencyMs": 283,
+    "packetLossPercent": 1.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5152",
+    "timestamp": "2025-07-02T08:00:00.000Z",
+    "level": "warning",
+    "event": "route recalculated",
+    "source": "LN-003",
+    "latencyMs": 296,
+    "packetLossPercent": 3,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5153",
+    "timestamp": "2025-07-02T09:00:00.000Z",
+    "level": "debug",
+    "event": "gateway heartbeat",
+    "source": "GW-04",
+    "latencyMs": 309,
+    "packetLossPercent": 4.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5154",
+    "timestamp": "2025-07-02T10:00:00.000Z",
+    "level": "critical",
+    "event": "packet retry spike",
+    "source": "LN-005",
+    "latencyMs": 322,
+    "packetLossPercent": 6,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5155",
+    "timestamp": "2025-07-02T11:00:00.000Z",
+    "level": "info",
+    "event": "node woke from sleep",
+    "source": "LN-006",
+    "latencyMs": 335,
+    "packetLossPercent": 7.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5156",
+    "timestamp": "2025-07-01T12:00:00.000Z",
+    "level": "info",
+    "event": "sensor calibration",
+    "source": "LN-007",
+    "latencyMs": 348,
+    "packetLossPercent": 0,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5157",
+    "timestamp": "2025-07-01T13:00:00.000Z",
+    "level": "warning",
+    "event": "alert broadcast",
+    "source": "LN-008",
+    "latencyMs": 361,
+    "packetLossPercent": 1.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5158",
+    "timestamp": "2025-07-01T14:00:00.000Z",
+    "level": "debug",
+    "event": "mesh healing completed",
+    "source": "LN-009",
+    "latencyMs": 374,
+    "packetLossPercent": 3,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5159",
+    "timestamp": "2025-07-01T15:00:00.000Z",
+    "level": "critical",
+    "event": "boat position updated",
+    "source": "LN-010",
+    "latencyMs": 387,
+    "packetLossPercent": 4.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5160",
+    "timestamp": "2025-07-01T16:00:00.000Z",
+    "level": "info",
+    "event": "route recalculated",
+    "source": "LN-011",
+    "latencyMs": 400,
+    "packetLossPercent": 6,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5161",
+    "timestamp": "2025-07-01T17:00:00.000Z",
+    "level": "info",
+    "event": "gateway heartbeat",
+    "source": "LN-012",
+    "latencyMs": 413,
+    "packetLossPercent": 7.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5162",
+    "timestamp": "2025-07-01T18:00:00.000Z",
+    "level": "warning",
+    "event": "packet retry spike",
+    "source": "GW-03",
+    "latencyMs": 426,
+    "packetLossPercent": 0,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5163",
+    "timestamp": "2025-07-01T19:00:00.000Z",
+    "level": "debug",
+    "event": "node woke from sleep",
+    "source": "LN-014",
+    "latencyMs": 439,
+    "packetLossPercent": 1.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5164",
+    "timestamp": "2025-07-01T20:00:00.000Z",
+    "level": "critical",
+    "event": "sensor calibration",
+    "source": "LN-015",
+    "latencyMs": 452,
+    "packetLossPercent": 3,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5165",
+    "timestamp": "2025-07-01T21:00:00.000Z",
+    "level": "info",
+    "event": "alert broadcast",
+    "source": "LN-016",
+    "latencyMs": 465,
+    "packetLossPercent": 4.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5166",
+    "timestamp": "2025-07-01T22:00:00.000Z",
+    "level": "info",
+    "event": "mesh healing completed",
+    "source": "LN-017",
+    "latencyMs": 478,
+    "packetLossPercent": 6,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5167",
+    "timestamp": "2025-07-01T23:00:00.000Z",
+    "level": "warning",
+    "event": "boat position updated",
+    "source": "LN-018",
+    "latencyMs": 131,
+    "packetLossPercent": 7.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5168",
+    "timestamp": "2025-06-30T00:00:00.000Z",
+    "level": "debug",
+    "event": "route recalculated",
+    "source": "LN-019",
+    "latencyMs": 144,
+    "packetLossPercent": 0,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5169",
+    "timestamp": "2025-06-30T01:00:00.000Z",
+    "level": "critical",
+    "event": "gateway heartbeat",
+    "source": "LN-020",
+    "latencyMs": 157,
+    "packetLossPercent": 1.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5170",
+    "timestamp": "2025-06-30T02:00:00.000Z",
+    "level": "info",
+    "event": "packet retry spike",
+    "source": "LN-021",
+    "latencyMs": 170,
+    "packetLossPercent": 3,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5171",
+    "timestamp": "2025-06-30T03:00:00.000Z",
+    "level": "info",
+    "event": "node woke from sleep",
+    "source": "GW-02",
+    "latencyMs": 183,
+    "packetLossPercent": 4.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  },
+  {
+    "id": "LOG-5172",
+    "timestamp": "2025-06-30T04:00:00.000Z",
+    "level": "warning",
+    "event": "sensor calibration",
+    "source": "LN-023",
+    "latencyMs": 196,
+    "packetLossPercent": 6,
+    "message": "sensor calibration for coastal mesh segment Barguna"
+  },
+  {
+    "id": "LOG-5173",
+    "timestamp": "2025-06-30T05:00:00.000Z",
+    "level": "debug",
+    "event": "alert broadcast",
+    "source": "LN-024",
+    "latencyMs": 209,
+    "packetLossPercent": 7.5,
+    "message": "alert broadcast for coastal mesh segment Patharghata"
+  },
+  {
+    "id": "LOG-5174",
+    "timestamp": "2025-06-30T06:00:00.000Z",
+    "level": "critical",
+    "event": "mesh healing completed",
+    "source": "LN-025",
+    "latencyMs": 222,
+    "packetLossPercent": 0,
+    "message": "mesh healing completed for coastal mesh segment Shyamnagar"
+  },
+  {
+    "id": "LOG-5175",
+    "timestamp": "2025-06-30T07:00:00.000Z",
+    "level": "info",
+    "event": "boat position updated",
+    "source": "LN-026",
+    "latencyMs": 235,
+    "packetLossPercent": 1.5,
+    "message": "boat position updated for coastal mesh segment Paikgacha"
+  },
+  {
+    "id": "LOG-5176",
+    "timestamp": "2025-06-30T08:00:00.000Z",
+    "level": "info",
+    "event": "route recalculated",
+    "source": "LN-027",
+    "latencyMs": 248,
+    "packetLossPercent": 3,
+    "message": "route recalculated for coastal mesh segment Satkhira"
+  },
+  {
+    "id": "LOG-5177",
+    "timestamp": "2025-06-30T09:00:00.000Z",
+    "level": "warning",
+    "event": "gateway heartbeat",
+    "source": "LN-028",
+    "latencyMs": 261,
+    "packetLossPercent": 4.5,
+    "message": "gateway heartbeat for coastal mesh segment Koyra"
+  },
+  {
+    "id": "LOG-5178",
+    "timestamp": "2025-06-30T10:00:00.000Z",
+    "level": "debug",
+    "event": "packet retry spike",
+    "source": "LN-029",
+    "latencyMs": 274,
+    "packetLossPercent": 6,
+    "message": "packet retry spike for coastal mesh segment Dacope"
+  },
+  {
+    "id": "LOG-5179",
+    "timestamp": "2025-06-30T11:00:00.000Z",
+    "level": "critical",
+    "event": "node woke from sleep",
+    "source": "LN-030",
+    "latencyMs": 287,
+    "packetLossPercent": 7.5,
+    "message": "node woke from sleep for coastal mesh segment Mongla"
+  }
+]

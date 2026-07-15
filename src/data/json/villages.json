@@ -1,0 +1,206 @@
+[
+  {
+    "id": "VIL-001",
+    "name": "Satkhira Community 1",
+    "district": "Satkhira",
+    "population": 850,
+    "households": 175,
+    "riskLevel": "low",
+    "shelterId": "SHT-01",
+    "gps": {
+      "lat": 21.92,
+      "lng": 89.05
+    },
+    "primaryHazards": [
+      "storm surge"
+    ]
+  },
+  {
+    "id": "VIL-002",
+    "name": "Koyra Community 2",
+    "district": "Koyra",
+    "population": 987,
+    "households": 204,
+    "riskLevel": "moderate",
+    "shelterId": "SHT-02",
+    "gps": {
+      "lat": 21.987,
+      "lng": 89.136
+    },
+    "primaryHazards": [
+      "storm surge",
+      "tidal flooding"
+    ]
+  },
+  {
+    "id": "VIL-003",
+    "name": "Dacope Community 3",
+    "district": "Dacope",
+    "population": 1124,
+    "households": 233,
+    "riskLevel": "elevated",
+    "shelterId": "SHT-03",
+    "gps": {
+      "lat": 22.054,
+      "lng": 89.222
+    },
+    "primaryHazards": [
+      "storm surge",
+      "tidal flooding",
+      "salinity intrusion"
+    ]
+  },
+  {
+    "id": "VIL-004",
+    "name": "Mongla Community 4",
+    "district": "Mongla",
+    "population": 1261,
+    "households": 262,
+    "riskLevel": "high",
+    "shelterId": "SHT-04",
+    "gps": {
+      "lat": 22.085,
+      "lng": 89.308
+    },
+    "primaryHazards": [
+      "storm surge"
+    ]
+  },
+  {
+    "id": "VIL-005",
+    "name": "Barguna Community 5",
+    "district": "Barguna",
+    "population": 1398,
+    "households": 291,
+    "riskLevel": "low",
+    "shelterId": "SHT-05",
+    "gps": {
+      "lat": 22.152,
+      "lng": 89.334
+    },
+    "primaryHazards": [
+      "storm surge",
+      "tidal flooding"
+    ]
+  },
+  {
+    "id": "VIL-006",
+    "name": "Patharghata Community 6",
+    "district": "Patharghata",
+    "population": 1535,
+    "households": 320,
+    "riskLevel": "moderate",
+    "shelterId": "SHT-06",
+    "gps": {
+      "lat": 22.219,
+      "lng": 89.42
+    },
+    "primaryHazards": [
+      "storm surge",
+      "tidal flooding",
+      "salinity intrusion"
+    ]
+  },
+  {
+    "id": "VIL-007",
+    "name": "Shyamnagar Community 7",
+    "district": "Shyamnagar",
+    "population": 1672,
+    "households": 349,
+    "riskLevel": "elevated",
+    "shelterId": "SHT-01",
+    "gps": {
+      "lat": 22.25,
+      "lng": 89.506
+    },
+    "primaryHazards": [
+      "storm surge"
+    ]
+  },
+  {
+    "id": "VIL-008",
+    "name": "Paikgacha Community 8",
+    "district": "Paikgacha",
+    "population": 1809,
+    "households": 378,
+    "riskLevel": "high",
+    "shelterId": "SHT-02",
+    "gps": {
+      "lat": 22.317,
+      "lng": 89.592
+    },
+    "primaryHazards": [
+      "storm surge",
+      "tidal flooding"
+    ]
+  },
+  {
+    "id": "VIL-009",
+    "name": "Satkhira Community 9",
+    "district": "Satkhira",
+    "population": 1946,
+    "households": 407,
+    "riskLevel": "low",
+    "shelterId": "SHT-03",
+    "gps": {
+      "lat": 22.384,
+      "lng": 89.618
+    },
+    "primaryHazards": [
+      "storm surge",
+      "tidal flooding",
+      "salinity intrusion"
+    ]
+  },
+  {
+    "id": "VIL-010",
+    "name": "Koyra Community 10",
+    "district": "Koyra",
+    "population": 2083,
+    "households": 436,
+    "riskLevel": "moderate",
+    "shelterId": "SHT-04",
+    "gps": {
+      "lat": 22.415,
+      "lng": 89.704
+    },
+    "primaryHazards": [
+      "storm surge"
+    ]
+  },
+  {
+    "id": "VIL-011",
+    "name": "Dacope Community 11",
+    "district": "Dacope",
+    "population": 2220,
+    "households": 465,
+    "riskLevel": "elevated",
+    "shelterId": "SHT-05",
+    "gps": {
+      "lat": 22.482,
+      "lng": 89.79
+    },
+    "primaryHazards": [
+      "storm surge",
+      "tidal flooding"
+    ]
+  },
+  {
+    "id": "VIL-012",
+    "name": "Mongla Community 12",
+    "district": "Mongla",
+    "population": 2357,
+    "households": 494,
+    "riskLevel": "high",
+    "shelterId": "SHT-06",
+    "gps": {
+      "lat": 22.549,
+      "lng": 89.876
+    },
+    "primaryHazards": [
+      "storm surge",
+      "tidal flooding",
+      "salinity intrusion"
+    ]
+  }
+]

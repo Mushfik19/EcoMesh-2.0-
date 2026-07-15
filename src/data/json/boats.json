@@ -1,0 +1,77 @@
+[
+  {
+    "id": "BOAT-01",
+    "name": "Rescue Boat B-17",
+    "status": "moving",
+    "crew": 4,
+    "capacity": 18,
+    "batteryPercent": 92,
+    "assignedVillageId": "VIL-001",
+    "gps": {
+      "lat": 22.08,
+      "lng": 89.28
+    },
+    "headingDegrees": 45,
+    "speedKph": 12.5
+  },
+  {
+    "id": "BOAT-02",
+    "name": "Relief Boat B-21",
+    "status": "standby",
+    "crew": 5,
+    "capacity": 24,
+    "batteryPercent": 85,
+    "assignedVillageId": "VIL-003",
+    "gps": {
+      "lat": 22.154,
+      "lng": 89.363
+    },
+    "headingDegrees": 76,
+    "speedKph": 15.3
+  },
+  {
+    "id": "BOAT-03",
+    "name": "Patrol Boat B-09",
+    "status": "moving",
+    "crew": 6,
+    "capacity": 30,
+    "batteryPercent": 78,
+    "assignedVillageId": "VIL-005",
+    "gps": {
+      "lat": 22.228,
+      "lng": 89.446
+    },
+    "headingDegrees": 107,
+    "speedKph": 18.1
+  },
+  {
+    "id": "BOAT-04",
+    "name": "Medical Boat B-04",
+    "status": "docked",
+    "crew": 7,
+    "capacity": 36,
+    "batteryPercent": 71,
+    "assignedVillageId": "VIL-007",
+    "gps": {
+      "lat": 22.302,
+      "lng": 89.529
+    },
+    "headingDegrees": 138,
+    "speedKph": 20.9
+  },
+  {
+    "id": "BOAT-05",
+    "name": "Logistics Boat B-12",
+    "status": "moving",
+    "crew": 8,
+    "capacity": 42,
+    "batteryPercent": 64,
+    "assignedVillageId": "VIL-009",
+    "gps": {
+      "lat": 22.376,
+      "lng": 89.612
+    },
+    "headingDegrees": 169,
+    "speedKph": 23.7
+  }
+]

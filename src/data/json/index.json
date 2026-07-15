@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-07-13T11:03:30.061Z",
+  "counts": {
+    "nodes": 30,
+    "boats": 5,
+    "villages": 12,
+    "alerts": 100,
+    "weatherRecords": 365,
+    "sensorHistoryNodes": 30,
+    "predictionHistory": 90,
+    "networkLogs": 180
+  },
+  "files": [
+    "nodes.json",
+    "boats.json",
+    "villages.json",
+    "alerts.json",
+    "weather-records-365.json",
+    "sensor-history.json",
+    "prediction-history.json",
+    "network-logs.json"
+  ]
+}

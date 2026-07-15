@@ -1,0 +1,5 @@
+import { DashboardPage as FeatureDashboardPage } from "@/features/dashboard";
+
+export function DashboardPage() {
+  return <FeatureDashboardPage />;
+}

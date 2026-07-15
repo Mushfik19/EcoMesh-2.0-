@@ -1,0 +1,795 @@
+[
+  {
+    "id": "LN-001",
+    "label": "Satkhira LoRa Node 1",
+    "type": "weather",
+    "villageId": "VIL-001",
+    "status": "online",
+    "firmware": "2.1.3",
+    "batteryPercent": 28,
+    "solarChargeWatts": 1.2,
+    "rssiDbm": -72,
+    "snrDb": 4.2,
+    "packetDeliveryPercent": 88,
+    "hopCount": 1,
+    "gatewayId": "GW-01",
+    "gps": {
+      "lat": 21.95,
+      "lng": 89.11
+    },
+    "lastSeen": "2025-07-13T10:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure"
+    ]
+  },
+  {
+    "id": "LN-002",
+    "label": "Koyra LoRa Node 2",
+    "type": "tide",
+    "villageId": "VIL-002",
+    "status": "online",
+    "firmware": "2.2.4",
+    "batteryPercent": 45,
+    "solarChargeWatts": 1.55,
+    "rssiDbm": -79,
+    "snrDb": 3.78,
+    "packetDeliveryPercent": 91.4,
+    "hopCount": 2,
+    "gatewayId": "GW-02",
+    "gps": {
+      "lat": 21.982,
+      "lng": 89.15
+    },
+    "lastSeen": "2025-07-13T11:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall"
+    ]
+  },
+  {
+    "id": "LN-003",
+    "label": "Dacope LoRa Node 3",
+    "type": "salinity",
+    "villageId": "VIL-003",
+    "status": "online",
+    "firmware": "2.3.5",
+    "batteryPercent": 62,
+    "solarChargeWatts": 1.9,
+    "rssiDbm": -86,
+    "snrDb": 3.36,
+    "packetDeliveryPercent": 94,
+    "hopCount": 3,
+    "gatewayId": "GW-03",
+    "gps": {
+      "lat": 22.014,
+      "lng": 89.19
+    },
+    "lastSeen": "2025-07-13T12:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall",
+      "wind"
+    ]
+  },
+  {
+    "id": "LN-004",
+    "label": "Mongla LoRa Node 4",
+    "type": "gateway-relay",
+    "villageId": "VIL-004",
+    "status": "degraded",
+    "firmware": "2.4.6",
+    "batteryPercent": 79,
+    "solarChargeWatts": 2.25,
+    "rssiDbm": -93,
+    "snrDb": 2.94,
+    "packetDeliveryPercent": 97.4,
+    "hopCount": 4,
+    "gatewayId": "GW-04",
+    "gps": {
+      "lat": 22.046,
+      "lng": 89.23
+    },
+    "lastSeen": "2025-07-13T13:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall",
+      "wind",
+      "salinity"
+    ]
+  },
+  {
+    "id": "LN-005",
+    "label": "Barguna LoRa Node 5",
+    "type": "river-level",
+    "villageId": "VIL-005",
+    "status": "sleep",
+    "firmware": "2.1.7",
+    "batteryPercent": 96,
+    "solarChargeWatts": 2.6,
+    "rssiDbm": -100,
+    "snrDb": 2.52,
+    "packetDeliveryPercent": 88,
+    "hopCount": 5,
+    "gatewayId": "GW-05",
+    "gps": {
+      "lat": 22.078,
+      "lng": 89.234
+    },
+    "lastSeen": "2025-07-13T14:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure"
+    ]
+  },
+  {
+    "id": "LN-006",
+    "label": "Patharghata LoRa Node 6",
+    "type": "wind",
+    "villageId": "VIL-006",
+    "status": "offline",
+    "firmware": "2.2.8",
+    "batteryPercent": 43,
+    "solarChargeWatts": 2.95,
+    "rssiDbm": -107,
+    "snrDb": 2.1,
+    "packetDeliveryPercent": 91.4,
+    "hopCount": 1,
+    "gatewayId": "GW-01",
+    "gps": {
+      "lat": 22.08,
+      "lng": 89.274
+    },
+    "lastSeen": "2025-07-13T15:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall"
+    ]
+  },
+  {
+    "id": "LN-007",
+    "label": "Shyamnagar LoRa Node 7",
+    "type": "rainfall",
+    "villageId": "VIL-007",
+    "status": "online",
+    "firmware": "2.3.9",
+    "batteryPercent": 60,
+    "solarChargeWatts": 3.3,
+    "rssiDbm": -76,
+    "snrDb": 1.68,
+    "packetDeliveryPercent": 94,
+    "hopCount": 2,
+    "gatewayId": "GW-02",
+    "gps": {
+      "lat": 22.112,
+      "lng": 89.314
+    },
+    "lastSeen": "2025-07-13T16:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall",
+      "wind"
+    ]
+  },
+  {
+    "id": "LN-008",
+    "label": "Paikgacha LoRa Node 8",
+    "type": "weather",
+    "villageId": "VIL-008",
+    "status": "online",
+    "firmware": "2.4.3",
+    "batteryPercent": 77,
+    "solarChargeWatts": 3.65,
+    "rssiDbm": -83,
+    "snrDb": 1.26,
+    "packetDeliveryPercent": 97.4,
+    "hopCount": 3,
+    "gatewayId": "GW-03",
+    "gps": {
+      "lat": 22.144,
+      "lng": 89.354
+    },
+    "lastSeen": "2025-07-13T17:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall",
+      "wind",
+      "salinity"
+    ]
+  },
+  {
+    "id": "LN-009",
+    "label": "Satkhira LoRa Node 9",
+    "type": "tide",
+    "villageId": "VIL-009",
+    "status": "online",
+    "firmware": "2.1.4",
+    "batteryPercent": 94,
+    "solarChargeWatts": 1.2,
+    "rssiDbm": -90,
+    "snrDb": 0.84,
+    "packetDeliveryPercent": 88,
+    "hopCount": 4,
+    "gatewayId": "GW-04",
+    "gps": {
+      "lat": 22.176,
+      "lng": 89.358
+    },
+    "lastSeen": "2025-07-13T18:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure"
+    ]
+  },
+  {
+    "id": "LN-010",
+    "label": "Koyra LoRa Node 10",
+    "type": "salinity",
+    "villageId": "VIL-010",
+    "status": "degraded",
+    "firmware": "2.2.5",
+    "batteryPercent": 41,
+    "solarChargeWatts": 1.55,
+    "rssiDbm": -97,
+    "snrDb": 4.2,
+    "packetDeliveryPercent": 91.4,
+    "hopCount": 5,
+    "gatewayId": "GW-05",
+    "gps": {
+      "lat": 22.208,
+      "lng": 89.398
+    },
+    "lastSeen": "2025-07-13T19:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall"
+    ]
+  },
+  {
+    "id": "LN-011",
+    "label": "Dacope LoRa Node 11",
+    "type": "gateway-relay",
+    "villageId": "VIL-011",
+    "status": "sleep",
+    "firmware": "2.3.6",
+    "batteryPercent": 58,
+    "solarChargeWatts": 1.9,
+    "rssiDbm": -104,
+    "snrDb": 3.78,
+    "packetDeliveryPercent": 94,
+    "hopCount": 1,
+    "gatewayId": "GW-01",
+    "gps": {
+      "lat": 22.21,
+      "lng": 89.438
+    },
+    "lastSeen": "2025-07-13T20:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall",
+      "wind"
+    ]
+  },
+  {
+    "id": "LN-012",
+    "label": "Mongla LoRa Node 12",
+    "type": "river-level",
+    "villageId": "VIL-012",
+    "status": "offline",
+    "firmware": "2.4.7",
+    "batteryPercent": 75,
+    "solarChargeWatts": 2.25,
+    "rssiDbm": -73,
+    "snrDb": 3.36,
+    "packetDeliveryPercent": 97.4,
+    "hopCount": 2,
+    "gatewayId": "GW-02",
+    "gps": {
+      "lat": 22.242,
+      "lng": 89.478
+    },
+    "lastSeen": "2025-07-13T21:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall",
+      "wind",
+      "salinity"
+    ]
+  },
+  {
+    "id": "LN-013",
+    "label": "Barguna LoRa Node 13",
+    "type": "wind",
+    "villageId": "VIL-001",
+    "status": "online",
+    "firmware": "2.1.8",
+    "batteryPercent": 92,
+    "solarChargeWatts": 2.6,
+    "rssiDbm": -80,
+    "snrDb": 2.94,
+    "packetDeliveryPercent": 88,
+    "hopCount": 3,
+    "gatewayId": "GW-03",
+    "gps": {
+      "lat": 22.274,
+      "lng": 89.482
+    },
+    "lastSeen": "2025-07-13T10:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure"
+    ]
+  },
+  {
+    "id": "LN-014",
+    "label": "Patharghata LoRa Node 14",
+    "type": "rainfall",
+    "villageId": "VIL-002",
+    "status": "online",
+    "firmware": "2.2.9",
+    "batteryPercent": 39,
+    "solarChargeWatts": 2.95,
+    "rssiDbm": -87,
+    "snrDb": 2.52,
+    "packetDeliveryPercent": 91.4,
+    "hopCount": 4,
+    "gatewayId": "GW-04",
+    "gps": {
+      "lat": 22.306,
+      "lng": 89.522
+    },
+    "lastSeen": "2025-07-13T11:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall"
+    ]
+  },
+  {
+    "id": "LN-015",
+    "label": "Shyamnagar LoRa Node 15",
+    "type": "weather",
+    "villageId": "VIL-003",
+    "status": "online",
+    "firmware": "2.3.3",
+    "batteryPercent": 56,
+    "solarChargeWatts": 3.3,
+    "rssiDbm": -94,
+    "snrDb": 2.1,
+    "packetDeliveryPercent": 94,
+    "hopCount": 5,
+    "gatewayId": "GW-05",
+    "gps": {
+      "lat": 22.338,
+      "lng": 89.562
+    },
+    "lastSeen": "2025-07-13T12:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall",
+      "wind"
+    ]
+  },
+  {
+    "id": "LN-016",
+    "label": "Paikgacha LoRa Node 16",
+    "type": "tide",
+    "villageId": "VIL-004",
+    "status": "degraded",
+    "firmware": "2.4.4",
+    "batteryPercent": 73,
+    "solarChargeWatts": 3.65,
+    "rssiDbm": -101,
+    "snrDb": 1.68,
+    "packetDeliveryPercent": 97.4,
+    "hopCount": 1,
+    "gatewayId": "GW-01",
+    "gps": {
+      "lat": 22.34,
+      "lng": 89.602
+    },
+    "lastSeen": "2025-07-13T13:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall",
+      "wind",
+      "salinity"
+    ]
+  },
+  {
+    "id": "LN-017",
+    "label": "Satkhira LoRa Node 17",
+    "type": "salinity",
+    "villageId": "VIL-005",
+    "status": "sleep",
+    "firmware": "2.1.5",
+    "batteryPercent": 90,
+    "solarChargeWatts": 1.2,
+    "rssiDbm": -108,
+    "snrDb": 1.26,
+    "packetDeliveryPercent": 88,
+    "hopCount": 2,
+    "gatewayId": "GW-02",
+    "gps": {
+      "lat": 22.372,
+      "lng": 89.606
+    },
+    "lastSeen": "2025-07-13T14:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure"
+    ]
+  },
+  {
+    "id": "LN-018",
+    "label": "Koyra LoRa Node 18",
+    "type": "gateway-relay",
+    "villageId": "VIL-006",
+    "status": "offline",
+    "firmware": "2.2.6",
+    "batteryPercent": 37,
+    "solarChargeWatts": 1.55,
+    "rssiDbm": -77,
+    "snrDb": 0.84,
+    "packetDeliveryPercent": 91.4,
+    "hopCount": 3,
+    "gatewayId": "GW-03",
+    "gps": {
+      "lat": 22.404,
+      "lng": 89.646
+    },
+    "lastSeen": "2025-07-13T15:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall"
+    ]
+  },
+  {
+    "id": "LN-019",
+    "label": "Dacope LoRa Node 19",
+    "type": "river-level",
+    "villageId": "VIL-007",
+    "status": "online",
+    "firmware": "2.3.7",
+    "batteryPercent": 54,
+    "solarChargeWatts": 1.9,
+    "rssiDbm": -84,
+    "snrDb": 4.2,
+    "packetDeliveryPercent": 94,
+    "hopCount": 4,
+    "gatewayId": "GW-04",
+    "gps": {
+      "lat": 22.436,
+      "lng": 89.686
+    },
+    "lastSeen": "2025-07-13T16:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall",
+      "wind"
+    ]
+  },
+  {
+    "id": "LN-020",
+    "label": "Mongla LoRa Node 20",
+    "type": "wind",
+    "villageId": "VIL-008",
+    "status": "online",
+    "firmware": "2.4.8",
+    "batteryPercent": 71,
+    "solarChargeWatts": 2.25,
+    "rssiDbm": -91,
+    "snrDb": 3.78,
+    "packetDeliveryPercent": 97.4,
+    "hopCount": 5,
+    "gatewayId": "GW-05",
+    "gps": {
+      "lat": 22.468,
+      "lng": 89.726
+    },
+    "lastSeen": "2025-07-13T17:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall",
+      "wind",
+      "salinity"
+    ]
+  },
+  {
+    "id": "LN-021",
+    "label": "Barguna LoRa Node 21",
+    "type": "rainfall",
+    "villageId": "VIL-009",
+    "status": "online",
+    "firmware": "2.1.9",
+    "batteryPercent": 88,
+    "solarChargeWatts": 2.6,
+    "rssiDbm": -98,
+    "snrDb": 3.36,
+    "packetDeliveryPercent": 88,
+    "hopCount": 1,
+    "gatewayId": "GW-01",
+    "gps": {
+      "lat": 22.47,
+      "lng": 89.73
+    },
+    "lastSeen": "2025-07-13T18:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure"
+    ]
+  },
+  {
+    "id": "LN-022",
+    "label": "Patharghata LoRa Node 22",
+    "type": "weather",
+    "villageId": "VIL-010",
+    "status": "degraded",
+    "firmware": "2.2.3",
+    "batteryPercent": 35,
+    "solarChargeWatts": 2.95,
+    "rssiDbm": -105,
+    "snrDb": 2.94,
+    "packetDeliveryPercent": 91.4,
+    "hopCount": 2,
+    "gatewayId": "GW-02",
+    "gps": {
+      "lat": 22.502,
+      "lng": 89.77
+    },
+    "lastSeen": "2025-07-13T19:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall"
+    ]
+  },
+  {
+    "id": "LN-023",
+    "label": "Shyamnagar LoRa Node 23",
+    "type": "tide",
+    "villageId": "VIL-011",
+    "status": "sleep",
+    "firmware": "2.3.4",
+    "batteryPercent": 52,
+    "solarChargeWatts": 3.3,
+    "rssiDbm": -74,
+    "snrDb": 2.52,
+    "packetDeliveryPercent": 94,
+    "hopCount": 3,
+    "gatewayId": "GW-03",
+    "gps": {
+      "lat": 22.534,
+      "lng": 89.81
+    },
+    "lastSeen": "2025-07-13T20:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall",
+      "wind"
+    ]
+  },
+  {
+    "id": "LN-024",
+    "label": "Paikgacha LoRa Node 24",
+    "type": "salinity",
+    "villageId": "VIL-012",
+    "status": "offline",
+    "firmware": "2.4.5",
+    "batteryPercent": 69,
+    "solarChargeWatts": 3.65,
+    "rssiDbm": -81,
+    "snrDb": 2.1,
+    "packetDeliveryPercent": 97.4,
+    "hopCount": 4,
+    "gatewayId": "GW-04",
+    "gps": {
+      "lat": 22.566,
+      "lng": 89.85
+    },
+    "lastSeen": "2025-07-13T21:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall",
+      "wind",
+      "salinity"
+    ]
+  },
+  {
+    "id": "LN-025",
+    "label": "Satkhira LoRa Node 25",
+    "type": "gateway-relay",
+    "villageId": "VIL-001",
+    "status": "online",
+    "firmware": "2.1.6",
+    "batteryPercent": 86,
+    "solarChargeWatts": 1.2,
+    "rssiDbm": -88,
+    "snrDb": 1.68,
+    "packetDeliveryPercent": 88,
+    "hopCount": 5,
+    "gatewayId": "GW-05",
+    "gps": {
+      "lat": 22.598,
+      "lng": 89.854
+    },
+    "lastSeen": "2025-07-13T10:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure"
+    ]
+  },
+  {
+    "id": "LN-026",
+    "label": "Koyra LoRa Node 26",
+    "type": "river-level",
+    "villageId": "VIL-002",
+    "status": "online",
+    "firmware": "2.2.7",
+    "batteryPercent": 33,
+    "solarChargeWatts": 1.55,
+    "rssiDbm": -95,
+    "snrDb": 1.26,
+    "packetDeliveryPercent": 91.4,
+    "hopCount": 1,
+    "gatewayId": "GW-01",
+    "gps": {
+      "lat": 22.6,
+      "lng": 89.894
+    },
+    "lastSeen": "2025-07-13T11:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall"
+    ]
+  },
+  {
+    "id": "LN-027",
+    "label": "Dacope LoRa Node 27",
+    "type": "wind",
+    "villageId": "VIL-003",
+    "status": "online",
+    "firmware": "2.3.8",
+    "batteryPercent": 50,
+    "solarChargeWatts": 1.9,
+    "rssiDbm": -102,
+    "snrDb": 0.84,
+    "packetDeliveryPercent": 94,
+    "hopCount": 2,
+    "gatewayId": "GW-02",
+    "gps": {
+      "lat": 22.632,
+      "lng": 89.934
+    },
+    "lastSeen": "2025-07-13T12:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall",
+      "wind"
+    ]
+  },
+  {
+    "id": "LN-028",
+    "label": "Mongla LoRa Node 28",
+    "type": "rainfall",
+    "villageId": "VIL-004",
+    "status": "degraded",
+    "firmware": "2.4.9",
+    "batteryPercent": 67,
+    "solarChargeWatts": 2.25,
+    "rssiDbm": -109,
+    "snrDb": 4.2,
+    "packetDeliveryPercent": 97.4,
+    "hopCount": 3,
+    "gatewayId": "GW-03",
+    "gps": {
+      "lat": 22.664,
+      "lng": 89.974
+    },
+    "lastSeen": "2025-07-13T13:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall",
+      "wind",
+      "salinity"
+    ]
+  },
+  {
+    "id": "LN-029",
+    "label": "Barguna LoRa Node 29",
+    "type": "weather",
+    "villageId": "VIL-005",
+    "status": "sleep",
+    "firmware": "2.1.3",
+    "batteryPercent": 84,
+    "solarChargeWatts": 2.6,
+    "rssiDbm": -78,
+    "snrDb": 3.78,
+    "packetDeliveryPercent": 88,
+    "hopCount": 4,
+    "gatewayId": "GW-04",
+    "gps": {
+      "lat": 22.696,
+      "lng": 89.978
+    },
+    "lastSeen": "2025-07-13T14:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure"
+    ]
+  },
+  {
+    "id": "LN-030",
+    "label": "Patharghata LoRa Node 30",
+    "type": "tide",
+    "villageId": "VIL-006",
+    "status": "offline",
+    "firmware": "2.2.4",
+    "batteryPercent": 31,
+    "solarChargeWatts": 2.95,
+    "rssiDbm": -85,
+    "snrDb": 3.36,
+    "packetDeliveryPercent": 91.4,
+    "hopCount": 5,
+    "gatewayId": "GW-05",
+    "gps": {
+      "lat": 22.728,
+      "lng": 90.018
+    },
+    "lastSeen": "2025-07-13T15:00:00.000Z",
+    "sensors": [
+      "temperature",
+      "humidity",
+      "pressure",
+      "rainfall"
+    ]
+  }
+]

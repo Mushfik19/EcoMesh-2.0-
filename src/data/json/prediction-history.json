@@ -1,0 +1,722 @@
+[
+  {
+    "date": "2026-04-15",
+    "floodProbability": 28,
+    "cycloneProbability": 18,
+    "meshFailureProbability": 8,
+    "aiConfidence": 76,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-04-16",
+    "floodProbability": 35.2,
+    "cycloneProbability": 22.3,
+    "meshFailureProbability": 11,
+    "aiConfidence": 77.7,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-04-17",
+    "floodProbability": 42.5,
+    "cycloneProbability": 26.5,
+    "meshFailureProbability": 14,
+    "aiConfidence": 79.4,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-04-18",
+    "floodProbability": 49.6,
+    "cycloneProbability": 30.8,
+    "meshFailureProbability": 16.9,
+    "aiConfidence": 81.1,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-04-19",
+    "floodProbability": 56.6,
+    "cycloneProbability": 35,
+    "meshFailureProbability": 19.7,
+    "aiConfidence": 82.7,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-04-20",
+    "floodProbability": 42.5,
+    "cycloneProbability": 39.1,
+    "meshFailureProbability": 13.4,
+    "aiConfidence": 79.4,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-04-21",
+    "floodProbability": 49.3,
+    "cycloneProbability": 26.3,
+    "meshFailureProbability": 16,
+    "aiConfidence": 81,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-04-22",
+    "floodProbability": 55.8,
+    "cycloneProbability": 30.3,
+    "meshFailureProbability": 18.5,
+    "aiConfidence": 82.5,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-04-23",
+    "floodProbability": 62.1,
+    "cycloneProbability": 34.3,
+    "meshFailureProbability": 20.8,
+    "aiConfidence": 84,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-04-24",
+    "floodProbability": 47.2,
+    "cycloneProbability": 38.2,
+    "meshFailureProbability": 14,
+    "aiConfidence": 85.5,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-04-25",
+    "floodProbability": 53.1,
+    "cycloneProbability": 42,
+    "meshFailureProbability": 16,
+    "aiConfidence": 81.9,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-04-26",
+    "floodProbability": 58.7,
+    "cycloneProbability": 45.8,
+    "meshFailureProbability": 17.8,
+    "aiConfidence": 83.2,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-04-27",
+    "floodProbability": 64,
+    "cycloneProbability": 32.4,
+    "meshFailureProbability": 19.5,
+    "aiConfidence": 84.5,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-04-28",
+    "floodProbability": 48,
+    "cycloneProbability": 36,
+    "meshFailureProbability": 21,
+    "aiConfidence": 85.7,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-04-29",
+    "floodProbability": 52.7,
+    "cycloneProbability": 39.4,
+    "meshFailureProbability": 13.3,
+    "aiConfidence": 86.9,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-04-30",
+    "floodProbability": 57.2,
+    "cycloneProbability": 42.7,
+    "meshFailureProbability": 14.6,
+    "aiConfidence": 83,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-05-01",
+    "floodProbability": 61.4,
+    "cycloneProbability": 45.9,
+    "meshFailureProbability": 15.7,
+    "aiConfidence": 84,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-05-02",
+    "floodProbability": 44.3,
+    "cycloneProbability": 32,
+    "meshFailureProbability": 16.8,
+    "aiConfidence": 84.9,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-05-03",
+    "floodProbability": 48,
+    "cycloneProbability": 35,
+    "meshFailureProbability": 8.8,
+    "aiConfidence": 85.8,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-05-04",
+    "floodProbability": 51.5,
+    "cycloneProbability": 37.8,
+    "meshFailureProbability": 9.8,
+    "aiConfidence": 86.6,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-05-05",
+    "floodProbability": 54.8,
+    "cycloneProbability": 40.6,
+    "meshFailureProbability": 10.9,
+    "aiConfidence": 82.4,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-05-06",
+    "floodProbability": 36.9,
+    "cycloneProbability": 43.2,
+    "meshFailureProbability": 11.9,
+    "aiConfidence": 83,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-05-07",
+    "floodProbability": 39.9,
+    "cycloneProbability": 45.7,
+    "meshFailureProbability": 13,
+    "aiConfidence": 83.7,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-05-08",
+    "floodProbability": 42.7,
+    "cycloneProbability": 31.1,
+    "meshFailureProbability": 5.2,
+    "aiConfidence": 84.2,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-05-09",
+    "floodProbability": 45.5,
+    "cycloneProbability": 33.5,
+    "meshFailureProbability": 6.5,
+    "aiConfidence": 84.7,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-05-10",
+    "floodProbability": 48.3,
+    "cycloneProbability": 35.7,
+    "meshFailureProbability": 7.9,
+    "aiConfidence": 80.2,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-05-11",
+    "floodProbability": 30.1,
+    "cycloneProbability": 37.8,
+    "meshFailureProbability": 9.4,
+    "aiConfidence": 80.6,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-05-12",
+    "floodProbability": 32.8,
+    "cycloneProbability": 39.9,
+    "meshFailureProbability": 2.1,
+    "aiConfidence": 81,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-05-13",
+    "floodProbability": 35.7,
+    "cycloneProbability": 41.9,
+    "meshFailureProbability": 4,
+    "aiConfidence": 81.3,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-05-14",
+    "floodProbability": 38.6,
+    "cycloneProbability": 26.8,
+    "meshFailureProbability": 6,
+    "aiConfidence": 81.7,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-05-15",
+    "floodProbability": 20.7,
+    "cycloneProbability": 28.6,
+    "meshFailureProbability": 8.2,
+    "aiConfidence": 77,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-05-16",
+    "floodProbability": 24,
+    "cycloneProbability": 30.4,
+    "meshFailureProbability": 10.6,
+    "aiConfidence": 77.3,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-05-17",
+    "floodProbability": 27.4,
+    "cycloneProbability": 32.2,
+    "meshFailureProbability": 4.1,
+    "aiConfidence": 77.6,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-05-18",
+    "floodProbability": 31,
+    "cycloneProbability": 34,
+    "meshFailureProbability": 6.8,
+    "aiConfidence": 77.9,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-05-19",
+    "floodProbability": 13.9,
+    "cycloneProbability": 18.7,
+    "meshFailureProbability": 9.5,
+    "aiConfidence": 78.2,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-05-20",
+    "floodProbability": 18,
+    "cycloneProbability": 20.4,
+    "meshFailureProbability": 12.4,
+    "aiConfidence": 73.5,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-05-21",
+    "floodProbability": 22.4,
+    "cycloneProbability": 22.2,
+    "meshFailureProbability": 6.3,
+    "aiConfidence": 73.9,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-05-22",
+    "floodProbability": 27.1,
+    "cycloneProbability": 23.9,
+    "meshFailureProbability": 9.3,
+    "aiConfidence": 74.3,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-05-23",
+    "floodProbability": 11,
+    "cycloneProbability": 25.7,
+    "meshFailureProbability": 12.3,
+    "aiConfidence": 74.7,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-05-24",
+    "floodProbability": 16.2,
+    "cycloneProbability": 27.5,
+    "meshFailureProbability": 15.3,
+    "aiConfidence": 75.2,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-05-25",
+    "floodProbability": 21.7,
+    "cycloneProbability": 12.4,
+    "meshFailureProbability": 18.2,
+    "aiConfidence": 70.7,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-05-26",
+    "floodProbability": 27.5,
+    "cycloneProbability": 14.3,
+    "meshFailureProbability": 12.1,
+    "aiConfidence": 71.3,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-05-27",
+    "floodProbability": 12.5,
+    "cycloneProbability": 16.2,
+    "meshFailureProbability": 14.9,
+    "aiConfidence": 71.9,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-05-28",
+    "floodProbability": 18.8,
+    "cycloneProbability": 18.3,
+    "meshFailureProbability": 17.6,
+    "aiConfidence": 72.6,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-05-29",
+    "floodProbability": 25.3,
+    "cycloneProbability": 20.4,
+    "meshFailureProbability": 20.2,
+    "aiConfidence": 73.3,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-05-30",
+    "floodProbability": 32,
+    "cycloneProbability": 22.6,
+    "meshFailureProbability": 13.6,
+    "aiConfidence": 69.2,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-05-31",
+    "floodProbability": 38.9,
+    "cycloneProbability": 7.9,
+    "meshFailureProbability": 15.9,
+    "aiConfidence": 70,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-06-01",
+    "floodProbability": 24.9,
+    "cycloneProbability": 10.3,
+    "meshFailureProbability": 18,
+    "aiConfidence": 71,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-06-02",
+    "floodProbability": 32,
+    "cycloneProbability": 12.8,
+    "meshFailureProbability": 19.9,
+    "aiConfidence": 72,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-06-03",
+    "floodProbability": 39.2,
+    "cycloneProbability": 15.5,
+    "meshFailureProbability": 21.7,
+    "aiConfidence": 73.1,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-06-04",
+    "floodProbability": 46.4,
+    "cycloneProbability": 18.2,
+    "meshFailureProbability": 14.3,
+    "aiConfidence": 69.3,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-06-05",
+    "floodProbability": 32.7,
+    "cycloneProbability": 4,
+    "meshFailureProbability": 15.8,
+    "aiConfidence": 70.5,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-06-06",
+    "floodProbability": 39.9,
+    "cycloneProbability": 7,
+    "meshFailureProbability": 17.1,
+    "aiConfidence": 71.8,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-06-07",
+    "floodProbability": 47,
+    "cycloneProbability": 10.1,
+    "meshFailureProbability": 18.3,
+    "aiConfidence": 73.2,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-06-08",
+    "floodProbability": 54.1,
+    "cycloneProbability": 13.3,
+    "meshFailureProbability": 10.5,
+    "aiConfidence": 74.6,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-06-09",
+    "floodProbability": 40,
+    "cycloneProbability": 16.6,
+    "meshFailureProbability": 11.5,
+    "aiConfidence": 71.1,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-06-10",
+    "floodProbability": 46.8,
+    "cycloneProbability": 20,
+    "meshFailureProbability": 12.5,
+    "aiConfidence": 72.6,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-06-11",
+    "floodProbability": 53.4,
+    "cycloneProbability": 6.5,
+    "meshFailureProbability": 13.5,
+    "aiConfidence": 74.1,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-06-12",
+    "floodProbability": 59.8,
+    "cycloneProbability": 10.1,
+    "meshFailureProbability": 14.6,
+    "aiConfidence": 75.7,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-06-13",
+    "floodProbability": 45,
+    "cycloneProbability": 13.9,
+    "meshFailureProbability": 6.6,
+    "aiConfidence": 77.4,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-06-14",
+    "floodProbability": 50.9,
+    "cycloneProbability": 17.7,
+    "meshFailureProbability": 7.7,
+    "aiConfidence": 74,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-06-15",
+    "floodProbability": 56.5,
+    "cycloneProbability": 21.6,
+    "meshFailureProbability": 8.9,
+    "aiConfidence": 75.7,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-06-16",
+    "floodProbability": 61.9,
+    "cycloneProbability": 25.6,
+    "meshFailureProbability": 10.3,
+    "aiConfidence": 77.4,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-06-17",
+    "floodProbability": 46,
+    "cycloneProbability": 12.6,
+    "meshFailureProbability": 2.7,
+    "aiConfidence": 79.1,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-06-18",
+    "floodProbability": 50.8,
+    "cycloneProbability": 16.7,
+    "meshFailureProbability": 4.3,
+    "aiConfidence": 80.8,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-06-19",
+    "floodProbability": 55.3,
+    "cycloneProbability": 20.9,
+    "meshFailureProbability": 6.1,
+    "aiConfidence": 77.5,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-06-20",
+    "floodProbability": 59.6,
+    "cycloneProbability": 25.1,
+    "meshFailureProbability": 8,
+    "aiConfidence": 79.2,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-06-21",
+    "floodProbability": 63.6,
+    "cycloneProbability": 29.3,
+    "meshFailureProbability": 10.1,
+    "aiConfidence": 80.8,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-06-22",
+    "floodProbability": 46.4,
+    "cycloneProbability": 16.6,
+    "meshFailureProbability": 3.3,
+    "aiConfidence": 82.5,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-06-23",
+    "floodProbability": 49.9,
+    "cycloneProbability": 20.9,
+    "meshFailureProbability": 5.7,
+    "aiConfidence": 84,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-06-24",
+    "floodProbability": 53.2,
+    "cycloneProbability": 25.1,
+    "meshFailureProbability": 8.3,
+    "aiConfidence": 80.6,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-06-25",
+    "floodProbability": 56.4,
+    "cycloneProbability": 29.4,
+    "meshFailureProbability": 11,
+    "aiConfidence": 82.1,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-06-26",
+    "floodProbability": 38.4,
+    "cycloneProbability": 33.6,
+    "meshFailureProbability": 4.8,
+    "aiConfidence": 83.6,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-06-27",
+    "floodProbability": 41.3,
+    "cycloneProbability": 37.8,
+    "meshFailureProbability": 7.7,
+    "aiConfidence": 85,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-06-28",
+    "floodProbability": 44.1,
+    "cycloneProbability": 25,
+    "meshFailureProbability": 10.6,
+    "aiConfidence": 86.3,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-06-29",
+    "floodProbability": 46.9,
+    "cycloneProbability": 29.1,
+    "meshFailureProbability": 13.6,
+    "aiConfidence": 82.6,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-06-30",
+    "floodProbability": 28.6,
+    "cycloneProbability": 33.2,
+    "meshFailureProbability": 16.6,
+    "aiConfidence": 83.8,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-07-01",
+    "floodProbability": 31.4,
+    "cycloneProbability": 37.2,
+    "meshFailureProbability": 10.6,
+    "aiConfidence": 84.9,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-07-02",
+    "floodProbability": 34.2,
+    "cycloneProbability": 41.1,
+    "meshFailureProbability": 13.5,
+    "aiConfidence": 86,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-07-03",
+    "floodProbability": 37.2,
+    "cycloneProbability": 45,
+    "meshFailureProbability": 16.4,
+    "aiConfidence": 87,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-07-04",
+    "floodProbability": 19.2,
+    "cycloneProbability": 31.7,
+    "meshFailureProbability": 19.2,
+    "aiConfidence": 82.9,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-07-05",
+    "floodProbability": 22.4,
+    "cycloneProbability": 35.4,
+    "meshFailureProbability": 12.8,
+    "aiConfidence": 83.8,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-07-06",
+    "floodProbability": 25.8,
+    "cycloneProbability": 38.9,
+    "meshFailureProbability": 15.3,
+    "aiConfidence": 84.6,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-07-07",
+    "floodProbability": 29.4,
+    "cycloneProbability": 42.3,
+    "meshFailureProbability": 17.7,
+    "aiConfidence": 85.3,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-07-08",
+    "floodProbability": 12.2,
+    "cycloneProbability": 45.7,
+    "meshFailureProbability": 19.9,
+    "aiConfidence": 86,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-07-09",
+    "floodProbability": 16.2,
+    "cycloneProbability": 31.9,
+    "meshFailureProbability": 22,
+    "aiConfidence": 81.6,
+    "recommendation": "increase sampling"
+  },
+  {
+    "date": "2026-07-10",
+    "floodProbability": 20.5,
+    "cycloneProbability": 35,
+    "meshFailureProbability": 14.9,
+    "aiConfidence": 82.1,
+    "recommendation": "prepare shelters"
+  },
+  {
+    "date": "2026-07-11",
+    "floodProbability": 25.1,
+    "cycloneProbability": 38,
+    "meshFailureProbability": 16.6,
+    "aiConfidence": 82.6,
+    "recommendation": "preserve gateway power"
+  },
+  {
+    "date": "2026-07-12",
+    "floodProbability": 30,
+    "cycloneProbability": 40.9,
+    "meshFailureProbability": 18.2,
+    "aiConfidence": 83.1,
+    "recommendation": "normal monitoring"
+  },
+  {
+    "date": "2026-07-13",
+    "floodProbability": 14.2,
+    "cycloneProbability": 43.6,
+    "meshFailureProbability": 19.6,
+    "aiConfidence": 83.5,
+    "recommendation": "increase sampling"
+  }
+]

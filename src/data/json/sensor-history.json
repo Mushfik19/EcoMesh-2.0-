@@ -1,0 +1,6632 @@
+[
+  {
+    "nodeId": "LN-001",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 28,
+        "humidityPercent": 72,
+        "pressureHpa": 1006,
+        "rainfallMm": 0,
+        "batteryPercent": 28,
+        "rssiDbm": -72
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 28.6,
+        "humidityPercent": 74,
+        "pressureHpa": 1005.3,
+        "rainfallMm": 0,
+        "batteryPercent": 28,
+        "rssiDbm": -73
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 29.2,
+        "humidityPercent": 75.8,
+        "pressureHpa": 1004.7,
+        "rainfallMm": 0,
+        "batteryPercent": 28,
+        "rssiDbm": -74
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 29.7,
+        "humidityPercent": 77.5,
+        "pressureHpa": 1004.1,
+        "rainfallMm": 0,
+        "batteryPercent": 28,
+        "rssiDbm": -75
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 30.2,
+        "humidityPercent": 78.7,
+        "pressureHpa": 1003.5,
+        "rainfallMm": 0,
+        "batteryPercent": 28,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 30.5,
+        "humidityPercent": 79.6,
+        "pressureHpa": 1003,
+        "rainfallMm": 0,
+        "batteryPercent": 28,
+        "rssiDbm": -72
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 30.8,
+        "humidityPercent": 80,
+        "pressureHpa": 1002.6,
+        "rainfallMm": 0,
+        "batteryPercent": 27,
+        "rssiDbm": -73
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1002.3,
+        "rainfallMm": 0,
+        "batteryPercent": 27,
+        "rssiDbm": -74
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 79.3,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 27,
+        "rssiDbm": -75
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 78.2,
+        "pressureHpa": 1002,
+        "rainfallMm": 2.2,
+        "batteryPercent": 27,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 76.8,
+        "pressureHpa": 1002,
+        "rainfallMm": 4.3,
+        "batteryPercent": 27,
+        "rssiDbm": -72
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 75.1,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 6.1,
+        "batteryPercent": 27,
+        "rssiDbm": -73
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 30,
+        "humidityPercent": 73.1,
+        "pressureHpa": 1002.4,
+        "rainfallMm": 7.6,
+        "batteryPercent": 26,
+        "rssiDbm": -74
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 71.1,
+        "pressureHpa": 1002.7,
+        "rainfallMm": 8.5,
+        "batteryPercent": 26,
+        "rssiDbm": -75
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 29,
+        "humidityPercent": 69.2,
+        "pressureHpa": 1003.1,
+        "rainfallMm": 9,
+        "batteryPercent": 26,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 28.4,
+        "humidityPercent": 67.4,
+        "pressureHpa": 1003.6,
+        "rainfallMm": 8.9,
+        "batteryPercent": 26,
+        "rssiDbm": -72
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 8.2,
+        "batteryPercent": 26,
+        "rssiDbm": -73
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 7,
+        "batteryPercent": 26,
+        "rssiDbm": -74
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 26.7,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 5.4,
+        "batteryPercent": 25,
+        "rssiDbm": -75
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 26.2,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 3.4,
+        "batteryPercent": 25,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 1.3,
+        "batteryPercent": 25,
+        "rssiDbm": -72
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 0,
+        "batteryPercent": 25,
+        "rssiDbm": -73
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 25.1,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 0,
+        "batteryPercent": 25,
+        "rssiDbm": -74
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 25,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 0,
+        "batteryPercent": 25,
+        "rssiDbm": -75
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-002",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 28.9,
+        "humidityPercent": 74,
+        "pressureHpa": 1005.3,
+        "rainfallMm": 0,
+        "batteryPercent": 45,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 75.8,
+        "pressureHpa": 1004.7,
+        "rainfallMm": 0,
+        "batteryPercent": 45,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 30,
+        "humidityPercent": 77.5,
+        "pressureHpa": 1004.1,
+        "rainfallMm": 0,
+        "batteryPercent": 45,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 30.5,
+        "humidityPercent": 78.7,
+        "pressureHpa": 1003.5,
+        "rainfallMm": 0,
+        "batteryPercent": 45,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 30.8,
+        "humidityPercent": 79.6,
+        "pressureHpa": 1003,
+        "rainfallMm": 0,
+        "batteryPercent": 45,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 31.1,
+        "humidityPercent": 80,
+        "pressureHpa": 1002.6,
+        "rainfallMm": 0,
+        "batteryPercent": 45,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1002.3,
+        "rainfallMm": 0,
+        "batteryPercent": 44,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 79.3,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 44,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 31.2,
+        "humidityPercent": 78.2,
+        "pressureHpa": 1002,
+        "rainfallMm": 1,
+        "batteryPercent": 44,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 76.8,
+        "pressureHpa": 1002,
+        "rainfallMm": 3.2,
+        "batteryPercent": 44,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 75.1,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 5.3,
+        "batteryPercent": 44,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 30.3,
+        "humidityPercent": 73.1,
+        "pressureHpa": 1002.4,
+        "rainfallMm": 7.1,
+        "batteryPercent": 44,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 71.1,
+        "pressureHpa": 1002.7,
+        "rainfallMm": 8.6,
+        "batteryPercent": 43,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 29.3,
+        "humidityPercent": 69.2,
+        "pressureHpa": 1003.1,
+        "rainfallMm": 9.5,
+        "batteryPercent": 43,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 28.7,
+        "humidityPercent": 67.4,
+        "pressureHpa": 1003.6,
+        "rainfallMm": 10,
+        "batteryPercent": 43,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 9.9,
+        "batteryPercent": 43,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 9.2,
+        "batteryPercent": 43,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 27,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 8,
+        "batteryPercent": 43,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 26.5,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 6.4,
+        "batteryPercent": 42,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 4.4,
+        "batteryPercent": 42,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 2.3,
+        "batteryPercent": 42,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 0,
+        "batteryPercent": 42,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 0,
+        "batteryPercent": 42,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 0,
+        "batteryPercent": 42,
+        "rssiDbm": -82
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-003",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 75.8,
+        "pressureHpa": 1004.7,
+        "rainfallMm": 0,
+        "batteryPercent": 62,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 30.3,
+        "humidityPercent": 77.5,
+        "pressureHpa": 1004.1,
+        "rainfallMm": 0,
+        "batteryPercent": 62,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 30.8,
+        "humidityPercent": 78.7,
+        "pressureHpa": 1003.5,
+        "rainfallMm": 0,
+        "batteryPercent": 62,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 31.1,
+        "humidityPercent": 79.6,
+        "pressureHpa": 1003,
+        "rainfallMm": 0,
+        "batteryPercent": 62,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 31.4,
+        "humidityPercent": 80,
+        "pressureHpa": 1002.6,
+        "rainfallMm": 0,
+        "batteryPercent": 62,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 31.6,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1002.3,
+        "rainfallMm": 0,
+        "batteryPercent": 62,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 31.6,
+        "humidityPercent": 79.3,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 61,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 31.5,
+        "humidityPercent": 78.2,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 61,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 76.8,
+        "pressureHpa": 1002,
+        "rainfallMm": 2,
+        "batteryPercent": 61,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 75.1,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 4.2,
+        "batteryPercent": 61,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 30.6,
+        "humidityPercent": 73.1,
+        "pressureHpa": 1002.4,
+        "rainfallMm": 6.3,
+        "batteryPercent": 61,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 30.1,
+        "humidityPercent": 71.1,
+        "pressureHpa": 1002.7,
+        "rainfallMm": 8.1,
+        "batteryPercent": 61,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 29.6,
+        "humidityPercent": 69.2,
+        "pressureHpa": 1003.1,
+        "rainfallMm": 9.6,
+        "batteryPercent": 60,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 29,
+        "humidityPercent": 67.4,
+        "pressureHpa": 1003.6,
+        "rainfallMm": 10.5,
+        "batteryPercent": 60,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 28.4,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 11,
+        "batteryPercent": 60,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 10.9,
+        "batteryPercent": 60,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 27.3,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 10.2,
+        "batteryPercent": 60,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 26.8,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 9,
+        "batteryPercent": 60,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 26.3,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 7.4,
+        "batteryPercent": 59,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 5.4,
+        "batteryPercent": 59,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 3.3,
+        "batteryPercent": 59,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 1,
+        "batteryPercent": 59,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 0,
+        "batteryPercent": 59,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 0,
+        "batteryPercent": 59,
+        "rssiDbm": -89
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-004",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 30.6,
+        "humidityPercent": 77.5,
+        "pressureHpa": 1004.1,
+        "rainfallMm": 0,
+        "batteryPercent": 79,
+        "rssiDbm": -93
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 31.1,
+        "humidityPercent": 78.7,
+        "pressureHpa": 1003.5,
+        "rainfallMm": 0,
+        "batteryPercent": 79,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 31.4,
+        "humidityPercent": 79.6,
+        "pressureHpa": 1003,
+        "rainfallMm": 0,
+        "batteryPercent": 79,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 31.7,
+        "humidityPercent": 80,
+        "pressureHpa": 1002.6,
+        "rainfallMm": 0,
+        "batteryPercent": 79,
+        "rssiDbm": -96
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 31.9,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1002.3,
+        "rainfallMm": 0,
+        "batteryPercent": 79,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 31.9,
+        "humidityPercent": 79.3,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 79,
+        "rssiDbm": -93
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 31.8,
+        "humidityPercent": 78.2,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 78,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 31.6,
+        "humidityPercent": 76.8,
+        "pressureHpa": 1002,
+        "rainfallMm": 0.8,
+        "batteryPercent": 78,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 75.1,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 3,
+        "batteryPercent": 78,
+        "rssiDbm": -96
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 73.1,
+        "pressureHpa": 1002.4,
+        "rainfallMm": 5.2,
+        "batteryPercent": 78,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 71.1,
+        "pressureHpa": 1002.7,
+        "rainfallMm": 7.3,
+        "batteryPercent": 78,
+        "rssiDbm": -93
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 29.9,
+        "humidityPercent": 69.2,
+        "pressureHpa": 1003.1,
+        "rainfallMm": 9.1,
+        "batteryPercent": 78,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 29.3,
+        "humidityPercent": 67.4,
+        "pressureHpa": 1003.6,
+        "rainfallMm": 10.6,
+        "batteryPercent": 77,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 28.7,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 11.5,
+        "batteryPercent": 77,
+        "rssiDbm": -96
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 12,
+        "batteryPercent": 77,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 27.6,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 11.9,
+        "batteryPercent": 77,
+        "rssiDbm": -93
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 27.1,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 11.2,
+        "batteryPercent": 77,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 10,
+        "batteryPercent": 77,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 26.3,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 8.4,
+        "batteryPercent": 76,
+        "rssiDbm": -96
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 6.4,
+        "batteryPercent": 76,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 4.3,
+        "batteryPercent": 76,
+        "rssiDbm": -93
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 2,
+        "batteryPercent": 76,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 0,
+        "batteryPercent": 76,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 26.2,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 0,
+        "batteryPercent": 76,
+        "rssiDbm": -96
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-005",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 30.2,
+        "humidityPercent": 78.7,
+        "pressureHpa": 1003.5,
+        "rainfallMm": 0,
+        "batteryPercent": 96,
+        "rssiDbm": -100
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 30.5,
+        "humidityPercent": 79.6,
+        "pressureHpa": 1003,
+        "rainfallMm": 0,
+        "batteryPercent": 96,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 30.8,
+        "humidityPercent": 80,
+        "pressureHpa": 1002.6,
+        "rainfallMm": 0,
+        "batteryPercent": 96,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1002.3,
+        "rainfallMm": 0,
+        "batteryPercent": 96,
+        "rssiDbm": -103
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 79.3,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 96,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 78.2,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 96,
+        "rssiDbm": -100
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 76.8,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 95,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 75.1,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 1.8,
+        "batteryPercent": 95,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 30,
+        "humidityPercent": 73.1,
+        "pressureHpa": 1002.4,
+        "rainfallMm": 4,
+        "batteryPercent": 95,
+        "rssiDbm": -103
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 71.1,
+        "pressureHpa": 1002.7,
+        "rainfallMm": 6.2,
+        "batteryPercent": 95,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 29,
+        "humidityPercent": 69.2,
+        "pressureHpa": 1003.1,
+        "rainfallMm": 8.3,
+        "batteryPercent": 95,
+        "rssiDbm": -100
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 28.4,
+        "humidityPercent": 67.4,
+        "pressureHpa": 1003.6,
+        "rainfallMm": 10.1,
+        "batteryPercent": 95,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 11.6,
+        "batteryPercent": 94,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 12.5,
+        "batteryPercent": 94,
+        "rssiDbm": -103
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 26.7,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 13,
+        "batteryPercent": 94,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 26.2,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 12.9,
+        "batteryPercent": 94,
+        "rssiDbm": -100
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 12.2,
+        "batteryPercent": 94,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 11,
+        "batteryPercent": 94,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 25.1,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 9.4,
+        "batteryPercent": 93,
+        "rssiDbm": -103
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 25,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 7.4,
+        "batteryPercent": 93,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 25,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 5.3,
+        "batteryPercent": 93,
+        "rssiDbm": -100
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 25.1,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 3,
+        "batteryPercent": 93,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 0.8,
+        "batteryPercent": 93,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 0,
+        "batteryPercent": 93,
+        "rssiDbm": -103
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-006",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 30.8,
+        "humidityPercent": 79.6,
+        "pressureHpa": 1003,
+        "rainfallMm": 0,
+        "batteryPercent": 43,
+        "rssiDbm": -107
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 31.1,
+        "humidityPercent": 80,
+        "pressureHpa": 1002.6,
+        "rainfallMm": 0,
+        "batteryPercent": 43,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1002.3,
+        "rainfallMm": 0,
+        "batteryPercent": 43,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 79.3,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 43,
+        "rssiDbm": -110
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 31.2,
+        "humidityPercent": 78.2,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 43,
+        "rssiDbm": -111
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 76.8,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 43,
+        "rssiDbm": -107
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 75.1,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 42,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 30.3,
+        "humidityPercent": 73.1,
+        "pressureHpa": 1002.4,
+        "rainfallMm": 0,
+        "batteryPercent": 42,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 71.1,
+        "pressureHpa": 1002.7,
+        "rainfallMm": 0,
+        "batteryPercent": 42,
+        "rssiDbm": -110
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 29.3,
+        "humidityPercent": 69.2,
+        "pressureHpa": 1003.1,
+        "rainfallMm": 2.2,
+        "batteryPercent": 42,
+        "rssiDbm": -111
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 28.7,
+        "humidityPercent": 67.4,
+        "pressureHpa": 1003.6,
+        "rainfallMm": 4.3,
+        "batteryPercent": 42,
+        "rssiDbm": -107
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 6.1,
+        "batteryPercent": 42,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 7.6,
+        "batteryPercent": 41,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 27,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 8.5,
+        "batteryPercent": 41,
+        "rssiDbm": -110
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 26.5,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 9,
+        "batteryPercent": 41,
+        "rssiDbm": -111
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 8.9,
+        "batteryPercent": 41,
+        "rssiDbm": -107
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 8.2,
+        "batteryPercent": 41,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 7,
+        "batteryPercent": 41,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 5.4,
+        "batteryPercent": 40,
+        "rssiDbm": -110
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 3.4,
+        "batteryPercent": 40,
+        "rssiDbm": -111
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 1.3,
+        "batteryPercent": 40,
+        "rssiDbm": -107
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 0,
+        "batteryPercent": 40,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 0,
+        "batteryPercent": 40,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 26.4,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 40,
+        "rssiDbm": -110
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-007",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 31.4,
+        "humidityPercent": 80,
+        "pressureHpa": 1002.6,
+        "rainfallMm": 0,
+        "batteryPercent": 60,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 31.6,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1002.3,
+        "rainfallMm": 0,
+        "batteryPercent": 60,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 31.6,
+        "humidityPercent": 79.3,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 60,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 31.5,
+        "humidityPercent": 78.2,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 60,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 76.8,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 60,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 75.1,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 60,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 30.6,
+        "humidityPercent": 73.1,
+        "pressureHpa": 1002.4,
+        "rainfallMm": 0,
+        "batteryPercent": 59,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 30.1,
+        "humidityPercent": 71.1,
+        "pressureHpa": 1002.7,
+        "rainfallMm": 0,
+        "batteryPercent": 59,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 29.6,
+        "humidityPercent": 69.2,
+        "pressureHpa": 1003.1,
+        "rainfallMm": 1,
+        "batteryPercent": 59,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 29,
+        "humidityPercent": 67.4,
+        "pressureHpa": 1003.6,
+        "rainfallMm": 3.2,
+        "batteryPercent": 59,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 28.4,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 5.3,
+        "batteryPercent": 59,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 7.1,
+        "batteryPercent": 59,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 27.3,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 8.6,
+        "batteryPercent": 58,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 26.8,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 9.5,
+        "batteryPercent": 58,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 26.3,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 10,
+        "batteryPercent": 58,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 9.9,
+        "batteryPercent": 58,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 9.2,
+        "batteryPercent": 58,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 8,
+        "batteryPercent": 58,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 6.4,
+        "batteryPercent": 57,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 4.4,
+        "batteryPercent": 57,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 2.3,
+        "batteryPercent": 57,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 26.3,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 0,
+        "batteryPercent": 57,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 26.7,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 57,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 57,
+        "rssiDbm": -79
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-008",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 31.9,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1002.3,
+        "rainfallMm": 0,
+        "batteryPercent": 77,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 31.9,
+        "humidityPercent": 79.3,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 77,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 31.8,
+        "humidityPercent": 78.2,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 77,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 31.6,
+        "humidityPercent": 76.8,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 77,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 75.1,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 77,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 73.1,
+        "pressureHpa": 1002.4,
+        "rainfallMm": 0,
+        "batteryPercent": 77,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 71.1,
+        "pressureHpa": 1002.7,
+        "rainfallMm": 0,
+        "batteryPercent": 76,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 29.9,
+        "humidityPercent": 69.2,
+        "pressureHpa": 1003.1,
+        "rainfallMm": 0,
+        "batteryPercent": 76,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 29.3,
+        "humidityPercent": 67.4,
+        "pressureHpa": 1003.6,
+        "rainfallMm": 2,
+        "batteryPercent": 76,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 28.7,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 4.2,
+        "batteryPercent": 76,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 6.3,
+        "batteryPercent": 76,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 27.6,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 8.1,
+        "batteryPercent": 76,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 27.1,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 9.6,
+        "batteryPercent": 75,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 10.5,
+        "batteryPercent": 75,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 26.3,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 11,
+        "batteryPercent": 75,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 10.9,
+        "batteryPercent": 75,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 10.2,
+        "batteryPercent": 75,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 9,
+        "batteryPercent": 75,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 7.4,
+        "batteryPercent": 74,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 26.2,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 5.4,
+        "batteryPercent": 74,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 3.3,
+        "batteryPercent": 74,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 27,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 1,
+        "batteryPercent": 74,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 74,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 0,
+        "batteryPercent": 74,
+        "rssiDbm": -86
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-009",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 79.3,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 94,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 78.2,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 94,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 76.8,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 94,
+        "rssiDbm": -92
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 75.1,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 94,
+        "rssiDbm": -93
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 30,
+        "humidityPercent": 73.1,
+        "pressureHpa": 1002.4,
+        "rainfallMm": 0,
+        "batteryPercent": 94,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 71.1,
+        "pressureHpa": 1002.7,
+        "rainfallMm": 0,
+        "batteryPercent": 94,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 29,
+        "humidityPercent": 69.2,
+        "pressureHpa": 1003.1,
+        "rainfallMm": 0,
+        "batteryPercent": 93,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 28.4,
+        "humidityPercent": 67.4,
+        "pressureHpa": 1003.6,
+        "rainfallMm": 0.8,
+        "batteryPercent": 93,
+        "rssiDbm": -92
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 3,
+        "batteryPercent": 93,
+        "rssiDbm": -93
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 5.2,
+        "batteryPercent": 93,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 26.7,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 7.3,
+        "batteryPercent": 93,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 26.2,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 9.1,
+        "batteryPercent": 93,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 10.6,
+        "batteryPercent": 92,
+        "rssiDbm": -92
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 11.5,
+        "batteryPercent": 92,
+        "rssiDbm": -93
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 25.1,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 12,
+        "batteryPercent": 92,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 25,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 11.9,
+        "batteryPercent": 92,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 25,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 11.2,
+        "batteryPercent": 92,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 25.1,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 10,
+        "batteryPercent": 92,
+        "rssiDbm": -92
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 8.4,
+        "batteryPercent": 91,
+        "rssiDbm": -93
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 6.4,
+        "batteryPercent": 91,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 26.1,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 4.3,
+        "batteryPercent": 91,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 2,
+        "batteryPercent": 91,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 0,
+        "batteryPercent": 91,
+        "rssiDbm": -92
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 0,
+        "batteryPercent": 91,
+        "rssiDbm": -93
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-010",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 31.2,
+        "humidityPercent": 78.2,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 41,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 76.8,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 41,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 75.1,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 41,
+        "rssiDbm": -99
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 30.3,
+        "humidityPercent": 73.1,
+        "pressureHpa": 1002.4,
+        "rainfallMm": 0,
+        "batteryPercent": 41,
+        "rssiDbm": -100
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 71.1,
+        "pressureHpa": 1002.7,
+        "rainfallMm": 0,
+        "batteryPercent": 41,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 29.3,
+        "humidityPercent": 69.2,
+        "pressureHpa": 1003.1,
+        "rainfallMm": 0,
+        "batteryPercent": 41,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 28.7,
+        "humidityPercent": 67.4,
+        "pressureHpa": 1003.6,
+        "rainfallMm": 0,
+        "batteryPercent": 40,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 1.8,
+        "batteryPercent": 40,
+        "rssiDbm": -99
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 4,
+        "batteryPercent": 40,
+        "rssiDbm": -100
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 27,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 6.2,
+        "batteryPercent": 40,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 26.5,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 8.3,
+        "batteryPercent": 40,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 10.1,
+        "batteryPercent": 40,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 11.6,
+        "batteryPercent": 39,
+        "rssiDbm": -99
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 12.5,
+        "batteryPercent": 39,
+        "rssiDbm": -100
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 13,
+        "batteryPercent": 39,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 12.9,
+        "batteryPercent": 39,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 12.2,
+        "batteryPercent": 39,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 11,
+        "batteryPercent": 39,
+        "rssiDbm": -99
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 9.4,
+        "batteryPercent": 38,
+        "rssiDbm": -100
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 26.4,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 7.4,
+        "batteryPercent": 38,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 26.9,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 5.3,
+        "batteryPercent": 38,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 3,
+        "batteryPercent": 38,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 0.8,
+        "batteryPercent": 38,
+        "rssiDbm": -99
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 28.6,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 0,
+        "batteryPercent": 38,
+        "rssiDbm": -100
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-011",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 76.8,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 58,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 75.1,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 58,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 30.6,
+        "humidityPercent": 73.1,
+        "pressureHpa": 1002.4,
+        "rainfallMm": 0,
+        "batteryPercent": 58,
+        "rssiDbm": -106
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 30.1,
+        "humidityPercent": 71.1,
+        "pressureHpa": 1002.7,
+        "rainfallMm": 0,
+        "batteryPercent": 58,
+        "rssiDbm": -107
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 29.6,
+        "humidityPercent": 69.2,
+        "pressureHpa": 1003.1,
+        "rainfallMm": 0,
+        "batteryPercent": 58,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 29,
+        "humidityPercent": 67.4,
+        "pressureHpa": 1003.6,
+        "rainfallMm": 0,
+        "batteryPercent": 58,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 28.4,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 0,
+        "batteryPercent": 57,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 0,
+        "batteryPercent": 57,
+        "rssiDbm": -106
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 27.3,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 0,
+        "batteryPercent": 57,
+        "rssiDbm": -107
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 26.8,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 2.2,
+        "batteryPercent": 57,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 26.3,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 4.3,
+        "batteryPercent": 57,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 6.1,
+        "batteryPercent": 57,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 7.6,
+        "batteryPercent": 56,
+        "rssiDbm": -106
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 8.5,
+        "batteryPercent": 56,
+        "rssiDbm": -107
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 9,
+        "batteryPercent": 56,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 8.9,
+        "batteryPercent": 56,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 8.2,
+        "batteryPercent": 56,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 26.3,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 7,
+        "batteryPercent": 56,
+        "rssiDbm": -106
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 26.7,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 5.4,
+        "batteryPercent": 55,
+        "rssiDbm": -107
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 3.4,
+        "batteryPercent": 55,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 1.3,
+        "batteryPercent": 55,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 28.4,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 0,
+        "batteryPercent": 55,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 28.9,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 0,
+        "batteryPercent": 55,
+        "rssiDbm": -106
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 0,
+        "batteryPercent": 55,
+        "rssiDbm": -107
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-012",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 75.1,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 75,
+        "rssiDbm": -73
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 73.1,
+        "pressureHpa": 1002.4,
+        "rainfallMm": 0,
+        "batteryPercent": 75,
+        "rssiDbm": -74
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 71.1,
+        "pressureHpa": 1002.7,
+        "rainfallMm": 0,
+        "batteryPercent": 75,
+        "rssiDbm": -75
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 29.9,
+        "humidityPercent": 69.2,
+        "pressureHpa": 1003.1,
+        "rainfallMm": 0,
+        "batteryPercent": 75,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 29.3,
+        "humidityPercent": 67.4,
+        "pressureHpa": 1003.6,
+        "rainfallMm": 0,
+        "batteryPercent": 75,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 28.7,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 0,
+        "batteryPercent": 75,
+        "rssiDbm": -73
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 0,
+        "batteryPercent": 74,
+        "rssiDbm": -74
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 27.6,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 0,
+        "batteryPercent": 74,
+        "rssiDbm": -75
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 27.1,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 1,
+        "batteryPercent": 74,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 3.2,
+        "batteryPercent": 74,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 26.3,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 5.3,
+        "batteryPercent": 74,
+        "rssiDbm": -73
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 7.1,
+        "batteryPercent": 74,
+        "rssiDbm": -74
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 8.6,
+        "batteryPercent": 73,
+        "rssiDbm": -75
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 9.5,
+        "batteryPercent": 73,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 10,
+        "batteryPercent": 73,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 26.2,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 9.9,
+        "batteryPercent": 73,
+        "rssiDbm": -73
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 9.2,
+        "batteryPercent": 73,
+        "rssiDbm": -74
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 27,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 8,
+        "batteryPercent": 73,
+        "rssiDbm": -75
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 6.4,
+        "batteryPercent": 72,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 4.4,
+        "batteryPercent": 72,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 28.7,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 2.3,
+        "batteryPercent": 72,
+        "rssiDbm": -73
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 29.2,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 0,
+        "batteryPercent": 72,
+        "rssiDbm": -74
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 0,
+        "batteryPercent": 72,
+        "rssiDbm": -75
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 0,
+        "batteryPercent": 72,
+        "rssiDbm": -76
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-013",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 30,
+        "humidityPercent": 73.1,
+        "pressureHpa": 1002.4,
+        "rainfallMm": 0,
+        "batteryPercent": 92,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 71.1,
+        "pressureHpa": 1002.7,
+        "rainfallMm": 0,
+        "batteryPercent": 92,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 29,
+        "humidityPercent": 69.2,
+        "pressureHpa": 1003.1,
+        "rainfallMm": 0,
+        "batteryPercent": 92,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 28.4,
+        "humidityPercent": 67.4,
+        "pressureHpa": 1003.6,
+        "rainfallMm": 0,
+        "batteryPercent": 92,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 0,
+        "batteryPercent": 92,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 0,
+        "batteryPercent": 92,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 26.7,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 0,
+        "batteryPercent": 91,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 26.2,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 0,
+        "batteryPercent": 91,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 2,
+        "batteryPercent": 91,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 4.2,
+        "batteryPercent": 91,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 25.1,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 6.3,
+        "batteryPercent": 91,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 25,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 8.1,
+        "batteryPercent": 91,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 25,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 9.6,
+        "batteryPercent": 90,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 25.1,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 10.5,
+        "batteryPercent": 90,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 11,
+        "batteryPercent": 90,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 10.9,
+        "batteryPercent": 90,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 26.1,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 10.2,
+        "batteryPercent": 90,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 9,
+        "batteryPercent": 90,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 7.4,
+        "batteryPercent": 89,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 5.4,
+        "batteryPercent": 89,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 28.3,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 3.3,
+        "batteryPercent": 89,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 28.9,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 1,
+        "batteryPercent": 89,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 0,
+        "batteryPercent": 89,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 30,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 0,
+        "batteryPercent": 89,
+        "rssiDbm": -83
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-014",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 71.1,
+        "pressureHpa": 1002.7,
+        "rainfallMm": 0,
+        "batteryPercent": 39,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 29.3,
+        "humidityPercent": 69.2,
+        "pressureHpa": 1003.1,
+        "rainfallMm": 0,
+        "batteryPercent": 39,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 28.7,
+        "humidityPercent": 67.4,
+        "pressureHpa": 1003.6,
+        "rainfallMm": 0,
+        "batteryPercent": 39,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 0,
+        "batteryPercent": 39,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 0,
+        "batteryPercent": 39,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 27,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 0,
+        "batteryPercent": 39,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 26.5,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 0,
+        "batteryPercent": 38,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 0.8,
+        "batteryPercent": 38,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 3,
+        "batteryPercent": 38,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 5.2,
+        "batteryPercent": 38,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 7.3,
+        "batteryPercent": 38,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 9.1,
+        "batteryPercent": 38,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 10.6,
+        "batteryPercent": 37,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 11.5,
+        "batteryPercent": 37,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 12,
+        "batteryPercent": 37,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 26.4,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 11.9,
+        "batteryPercent": 37,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 26.9,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 11.2,
+        "batteryPercent": 37,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 10,
+        "batteryPercent": 37,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 8.4,
+        "batteryPercent": 36,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 28.6,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 6.4,
+        "batteryPercent": 36,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 29.2,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 4.3,
+        "batteryPercent": 36,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 2,
+        "batteryPercent": 36,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 30.3,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 0,
+        "batteryPercent": 36,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 0,
+        "batteryPercent": 36,
+        "rssiDbm": -90
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-015",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 29.6,
+        "humidityPercent": 69.2,
+        "pressureHpa": 1003.1,
+        "rainfallMm": 0,
+        "batteryPercent": 56,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 29,
+        "humidityPercent": 67.4,
+        "pressureHpa": 1003.6,
+        "rainfallMm": 0,
+        "batteryPercent": 56,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 28.4,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 0,
+        "batteryPercent": 56,
+        "rssiDbm": -96
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 0,
+        "batteryPercent": 56,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 27.3,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 0,
+        "batteryPercent": 56,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 26.8,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 0,
+        "batteryPercent": 56,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 26.3,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 0,
+        "batteryPercent": 55,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 1.8,
+        "batteryPercent": 55,
+        "rssiDbm": -96
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 4,
+        "batteryPercent": 55,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 6.2,
+        "batteryPercent": 55,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 8.3,
+        "batteryPercent": 55,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 10.1,
+        "batteryPercent": 55,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 11.6,
+        "batteryPercent": 54,
+        "rssiDbm": -96
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 26.3,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 12.5,
+        "batteryPercent": 54,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 26.7,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 13,
+        "batteryPercent": 54,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 12.9,
+        "batteryPercent": 54,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 12.2,
+        "batteryPercent": 54,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 28.4,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 11,
+        "batteryPercent": 54,
+        "rssiDbm": -96
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 28.9,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 9.4,
+        "batteryPercent": 53,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 7.4,
+        "batteryPercent": 53,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 30.1,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 5.3,
+        "batteryPercent": 53,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 30.6,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 3,
+        "batteryPercent": 53,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 0.8,
+        "batteryPercent": 53,
+        "rssiDbm": -96
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 73.4,
+        "pressureHpa": 1006.5,
+        "rainfallMm": 0,
+        "batteryPercent": 53,
+        "rssiDbm": -97
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-016",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 29.3,
+        "humidityPercent": 67.4,
+        "pressureHpa": 1003.6,
+        "rainfallMm": 0,
+        "batteryPercent": 73,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 28.7,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 0,
+        "batteryPercent": 73,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 0,
+        "batteryPercent": 73,
+        "rssiDbm": -103
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 27.6,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 0,
+        "batteryPercent": 73,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 27.1,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 0,
+        "batteryPercent": 73,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 0,
+        "batteryPercent": 73,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 26.3,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 0,
+        "batteryPercent": 72,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 0,
+        "batteryPercent": 72,
+        "rssiDbm": -103
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 0,
+        "batteryPercent": 72,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 2.2,
+        "batteryPercent": 72,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 4.3,
+        "batteryPercent": 72,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 26.2,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 6.1,
+        "batteryPercent": 72,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 7.6,
+        "batteryPercent": 71,
+        "rssiDbm": -103
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 27,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 8.5,
+        "batteryPercent": 71,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 9,
+        "batteryPercent": 71,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 8.9,
+        "batteryPercent": 71,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 28.7,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 8.2,
+        "batteryPercent": 71,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 29.2,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 7,
+        "batteryPercent": 71,
+        "rssiDbm": -103
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 5.4,
+        "batteryPercent": 70,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 3.4,
+        "batteryPercent": 70,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 1.3,
+        "batteryPercent": 70,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 0,
+        "batteryPercent": 70,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 31.6,
+        "humidityPercent": 73.4,
+        "pressureHpa": 1006.5,
+        "rainfallMm": 0,
+        "batteryPercent": 70,
+        "rssiDbm": -103
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 31.8,
+        "humidityPercent": 71.4,
+        "pressureHpa": 1005.8,
+        "rainfallMm": 0,
+        "batteryPercent": 70,
+        "rssiDbm": -104
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-017",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 65.9,
+        "pressureHpa": 1004.2,
+        "rainfallMm": 0,
+        "batteryPercent": 90,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 0,
+        "batteryPercent": 90,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 26.7,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 0,
+        "batteryPercent": 90,
+        "rssiDbm": -110
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 26.2,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 0,
+        "batteryPercent": 90,
+        "rssiDbm": -111
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 0,
+        "batteryPercent": 90,
+        "rssiDbm": -112
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 0,
+        "batteryPercent": 90,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 25.1,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 0,
+        "batteryPercent": 89,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 25,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 0,
+        "batteryPercent": 89,
+        "rssiDbm": -110
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 25,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 1,
+        "batteryPercent": 89,
+        "rssiDbm": -111
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 25.1,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 3.2,
+        "batteryPercent": 89,
+        "rssiDbm": -112
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 5.3,
+        "batteryPercent": 89,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 7.1,
+        "batteryPercent": 89,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 26.1,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 8.6,
+        "batteryPercent": 88,
+        "rssiDbm": -110
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 9.5,
+        "batteryPercent": 88,
+        "rssiDbm": -111
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 10,
+        "batteryPercent": 88,
+        "rssiDbm": -112
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 9.9,
+        "batteryPercent": 88,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 28.3,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 9.2,
+        "batteryPercent": 88,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 28.9,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 8,
+        "batteryPercent": 88,
+        "rssiDbm": -110
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 6.4,
+        "batteryPercent": 87,
+        "rssiDbm": -111
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 30,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 4.4,
+        "batteryPercent": 87,
+        "rssiDbm": -112
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 2.3,
+        "batteryPercent": 87,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 73.4,
+        "pressureHpa": 1006.5,
+        "rainfallMm": 0,
+        "batteryPercent": 87,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 71.4,
+        "pressureHpa": 1005.8,
+        "rainfallMm": 0,
+        "batteryPercent": 87,
+        "rssiDbm": -110
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 69.4,
+        "pressureHpa": 1005.1,
+        "rainfallMm": 0,
+        "batteryPercent": 87,
+        "rssiDbm": -111
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-018",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 64.8,
+        "pressureHpa": 1004.8,
+        "rainfallMm": 0,
+        "batteryPercent": 37,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 27,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 0,
+        "batteryPercent": 37,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 26.5,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 0,
+        "batteryPercent": 37,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 0,
+        "batteryPercent": 37,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 0,
+        "batteryPercent": 37,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 0,
+        "batteryPercent": 37,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 0,
+        "batteryPercent": 36,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 0,
+        "batteryPercent": 36,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 2,
+        "batteryPercent": 36,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 4.2,
+        "batteryPercent": 36,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 6.3,
+        "batteryPercent": 36,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 26.4,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 8.1,
+        "batteryPercent": 36,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 26.9,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 9.6,
+        "batteryPercent": 35,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 10.5,
+        "batteryPercent": 35,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 11,
+        "batteryPercent": 35,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 28.6,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 10.9,
+        "batteryPercent": 35,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 29.2,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 10.2,
+        "batteryPercent": 35,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 9,
+        "batteryPercent": 35,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 30.3,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 7.4,
+        "batteryPercent": 34,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 5.4,
+        "batteryPercent": 34,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 73.4,
+        "pressureHpa": 1006.5,
+        "rainfallMm": 3.3,
+        "batteryPercent": 34,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 31.2,
+        "humidityPercent": 71.4,
+        "pressureHpa": 1005.8,
+        "rainfallMm": 1,
+        "batteryPercent": 34,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 69.4,
+        "pressureHpa": 1005.1,
+        "rainfallMm": 0,
+        "batteryPercent": 34,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 67.6,
+        "pressureHpa": 1004.5,
+        "rainfallMm": 0,
+        "batteryPercent": 34,
+        "rssiDbm": -80
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-019",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 27.3,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1005.4,
+        "rainfallMm": 0,
+        "batteryPercent": 54,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 26.8,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 0,
+        "batteryPercent": 54,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 26.3,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 0,
+        "batteryPercent": 54,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 0,
+        "batteryPercent": 54,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 0,
+        "batteryPercent": 54,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 0,
+        "batteryPercent": 54,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 0,
+        "batteryPercent": 53,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 0.8,
+        "batteryPercent": 53,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 3,
+        "batteryPercent": 53,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 26.3,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 5.2,
+        "batteryPercent": 53,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 26.7,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 7.3,
+        "batteryPercent": 53,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 9.1,
+        "batteryPercent": 53,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 10.6,
+        "batteryPercent": 52,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 28.4,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 11.5,
+        "batteryPercent": 52,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 28.9,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 12,
+        "batteryPercent": 52,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 11.9,
+        "batteryPercent": 52,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 30.1,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 11.2,
+        "batteryPercent": 52,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 30.6,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 10,
+        "batteryPercent": 52,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 8.4,
+        "batteryPercent": 51,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 73.4,
+        "pressureHpa": 1006.5,
+        "rainfallMm": 6.4,
+        "batteryPercent": 51,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 31.5,
+        "humidityPercent": 71.4,
+        "pressureHpa": 1005.8,
+        "rainfallMm": 4.3,
+        "batteryPercent": 51,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 31.6,
+        "humidityPercent": 69.4,
+        "pressureHpa": 1005.1,
+        "rainfallMm": 2,
+        "batteryPercent": 51,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 31.6,
+        "humidityPercent": 67.6,
+        "pressureHpa": 1004.5,
+        "rainfallMm": 0,
+        "batteryPercent": 51,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 31.4,
+        "humidityPercent": 66.1,
+        "pressureHpa": 1003.9,
+        "rainfallMm": 0,
+        "batteryPercent": 51,
+        "rssiDbm": -87
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-020",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 27.1,
+        "humidityPercent": 64,
+        "pressureHpa": 1006.1,
+        "rainfallMm": 0,
+        "batteryPercent": 71,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 0,
+        "batteryPercent": 71,
+        "rssiDbm": -92
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 26.3,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 0,
+        "batteryPercent": 71,
+        "rssiDbm": -93
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 0,
+        "batteryPercent": 71,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 0,
+        "batteryPercent": 71,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 0,
+        "batteryPercent": 71,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 0,
+        "batteryPercent": 70,
+        "rssiDbm": -92
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 26.2,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 1.8,
+        "batteryPercent": 70,
+        "rssiDbm": -93
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 4,
+        "batteryPercent": 70,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 27,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 6.2,
+        "batteryPercent": 70,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 8.3,
+        "batteryPercent": 70,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 10.1,
+        "batteryPercent": 70,
+        "rssiDbm": -92
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 28.7,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 11.6,
+        "batteryPercent": 69,
+        "rssiDbm": -93
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 29.2,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 12.5,
+        "batteryPercent": 69,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 13,
+        "batteryPercent": 69,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 12.9,
+        "batteryPercent": 69,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 12.2,
+        "batteryPercent": 69,
+        "rssiDbm": -92
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 11,
+        "batteryPercent": 69,
+        "rssiDbm": -93
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 31.6,
+        "humidityPercent": 73.4,
+        "pressureHpa": 1006.5,
+        "rainfallMm": 9.4,
+        "batteryPercent": 68,
+        "rssiDbm": -94
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 31.8,
+        "humidityPercent": 71.4,
+        "pressureHpa": 1005.8,
+        "rainfallMm": 7.4,
+        "batteryPercent": 68,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 31.9,
+        "humidityPercent": 69.4,
+        "pressureHpa": 1005.1,
+        "rainfallMm": 5.3,
+        "batteryPercent": 68,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 31.9,
+        "humidityPercent": 67.6,
+        "pressureHpa": 1004.5,
+        "rainfallMm": 3,
+        "batteryPercent": 68,
+        "rssiDbm": -92
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 31.7,
+        "humidityPercent": 66.1,
+        "pressureHpa": 1003.9,
+        "rainfallMm": 0.8,
+        "batteryPercent": 68,
+        "rssiDbm": -93
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 31.5,
+        "humidityPercent": 65,
+        "pressureHpa": 1003.4,
+        "rainfallMm": 0,
+        "batteryPercent": 68,
+        "rssiDbm": -94
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-021",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1006.8,
+        "rainfallMm": 0,
+        "batteryPercent": 88,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 0,
+        "batteryPercent": 88,
+        "rssiDbm": -99
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 25.1,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 0,
+        "batteryPercent": 88,
+        "rssiDbm": -100
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 25,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 0,
+        "batteryPercent": 88,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 25,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 0,
+        "batteryPercent": 88,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 25.1,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 0,
+        "batteryPercent": 88,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 0,
+        "batteryPercent": 87,
+        "rssiDbm": -99
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 0,
+        "batteryPercent": 87,
+        "rssiDbm": -100
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 26.1,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 87,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 2.2,
+        "batteryPercent": 87,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 4.3,
+        "batteryPercent": 87,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 6.1,
+        "batteryPercent": 87,
+        "rssiDbm": -99
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 28.3,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 7.6,
+        "batteryPercent": 86,
+        "rssiDbm": -100
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 28.9,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 8.5,
+        "batteryPercent": 86,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 9,
+        "batteryPercent": 86,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 30,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 8.9,
+        "batteryPercent": 86,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 8.2,
+        "batteryPercent": 86,
+        "rssiDbm": -99
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 73.4,
+        "pressureHpa": 1006.5,
+        "rainfallMm": 7,
+        "batteryPercent": 86,
+        "rssiDbm": -100
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 71.4,
+        "pressureHpa": 1005.8,
+        "rainfallMm": 5.4,
+        "batteryPercent": 85,
+        "rssiDbm": -101
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 69.4,
+        "pressureHpa": 1005.1,
+        "rainfallMm": 3.4,
+        "batteryPercent": 85,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 67.6,
+        "pressureHpa": 1004.5,
+        "rainfallMm": 1.3,
+        "batteryPercent": 85,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 30.8,
+        "humidityPercent": 66.1,
+        "pressureHpa": 1003.9,
+        "rainfallMm": 0,
+        "batteryPercent": 85,
+        "rssiDbm": -99
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 30.6,
+        "humidityPercent": 65,
+        "pressureHpa": 1003.4,
+        "rainfallMm": 0,
+        "batteryPercent": 85,
+        "rssiDbm": -100
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 30.2,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1002.9,
+        "rainfallMm": 0,
+        "batteryPercent": 85,
+        "rssiDbm": -101
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-022",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 65.1,
+        "pressureHpa": 1007.4,
+        "rainfallMm": 0,
+        "batteryPercent": 35,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 0,
+        "batteryPercent": 35,
+        "rssiDbm": -106
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 0,
+        "batteryPercent": 35,
+        "rssiDbm": -107
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 0,
+        "batteryPercent": 35,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 0,
+        "batteryPercent": 35,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 0,
+        "batteryPercent": 35,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 0,
+        "batteryPercent": 34,
+        "rssiDbm": -106
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 26.4,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 34,
+        "rssiDbm": -107
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 26.9,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 1,
+        "batteryPercent": 34,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 3.2,
+        "batteryPercent": 34,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 5.3,
+        "batteryPercent": 34,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 28.6,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 7.1,
+        "batteryPercent": 34,
+        "rssiDbm": -106
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 29.2,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 8.6,
+        "batteryPercent": 33,
+        "rssiDbm": -107
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 9.5,
+        "batteryPercent": 33,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 30.3,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 10,
+        "batteryPercent": 33,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 9.9,
+        "batteryPercent": 33,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 73.4,
+        "pressureHpa": 1006.5,
+        "rainfallMm": 9.2,
+        "batteryPercent": 33,
+        "rssiDbm": -106
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 31.2,
+        "humidityPercent": 71.4,
+        "pressureHpa": 1005.8,
+        "rainfallMm": 8,
+        "batteryPercent": 33,
+        "rssiDbm": -107
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 69.4,
+        "pressureHpa": 1005.1,
+        "rainfallMm": 6.4,
+        "batteryPercent": 32,
+        "rssiDbm": -108
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 67.6,
+        "pressureHpa": 1004.5,
+        "rainfallMm": 4.4,
+        "batteryPercent": 32,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 31.1,
+        "humidityPercent": 66.1,
+        "pressureHpa": 1003.9,
+        "rainfallMm": 2.3,
+        "batteryPercent": 32,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 65,
+        "pressureHpa": 1003.4,
+        "rainfallMm": 0,
+        "batteryPercent": 32,
+        "rssiDbm": -106
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 30.5,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1002.9,
+        "rainfallMm": 0,
+        "batteryPercent": 32,
+        "rssiDbm": -107
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 30.1,
+        "humidityPercent": 64,
+        "pressureHpa": 1002.5,
+        "rainfallMm": 0,
+        "batteryPercent": 32,
+        "rssiDbm": -108
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-023",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 66.4,
+        "pressureHpa": 1008,
+        "rainfallMm": 0,
+        "batteryPercent": 52,
+        "rssiDbm": -74
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 0,
+        "batteryPercent": 52,
+        "rssiDbm": -75
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 0,
+        "batteryPercent": 52,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 0,
+        "batteryPercent": 52,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 0,
+        "batteryPercent": 52,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 26.3,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 0,
+        "batteryPercent": 52,
+        "rssiDbm": -74
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 26.7,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 51,
+        "rssiDbm": -75
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 51,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 2,
+        "batteryPercent": 51,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 28.4,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 4.2,
+        "batteryPercent": 51,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 28.9,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 6.3,
+        "batteryPercent": 51,
+        "rssiDbm": -74
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 8.1,
+        "batteryPercent": 51,
+        "rssiDbm": -75
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 30.1,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 9.6,
+        "batteryPercent": 50,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 30.6,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 10.5,
+        "batteryPercent": 50,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 11,
+        "batteryPercent": 50,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 73.4,
+        "pressureHpa": 1006.5,
+        "rainfallMm": 10.9,
+        "batteryPercent": 50,
+        "rssiDbm": -74
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 31.5,
+        "humidityPercent": 71.4,
+        "pressureHpa": 1005.8,
+        "rainfallMm": 10.2,
+        "batteryPercent": 50,
+        "rssiDbm": -75
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 31.6,
+        "humidityPercent": 69.4,
+        "pressureHpa": 1005.1,
+        "rainfallMm": 9,
+        "batteryPercent": 50,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 31.6,
+        "humidityPercent": 67.6,
+        "pressureHpa": 1004.5,
+        "rainfallMm": 7.4,
+        "batteryPercent": 49,
+        "rssiDbm": -77
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 31.4,
+        "humidityPercent": 66.1,
+        "pressureHpa": 1003.9,
+        "rainfallMm": 5.4,
+        "batteryPercent": 49,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 31.2,
+        "humidityPercent": 65,
+        "pressureHpa": 1003.4,
+        "rainfallMm": 3.3,
+        "batteryPercent": 49,
+        "rssiDbm": -74
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 30.8,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1002.9,
+        "rainfallMm": 1,
+        "batteryPercent": 49,
+        "rssiDbm": -75
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 64,
+        "pressureHpa": 1002.5,
+        "rainfallMm": 0,
+        "batteryPercent": 49,
+        "rssiDbm": -76
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1002.2,
+        "rainfallMm": 0,
+        "batteryPercent": 49,
+        "rssiDbm": -77
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-024",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 67.9,
+        "pressureHpa": 1008.6,
+        "rainfallMm": 0,
+        "batteryPercent": 69,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 0,
+        "batteryPercent": 69,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 0,
+        "batteryPercent": 69,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 26.2,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 0,
+        "batteryPercent": 69,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 0,
+        "batteryPercent": 69,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 27,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 69,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 68,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 0.8,
+        "batteryPercent": 68,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 28.7,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 3,
+        "batteryPercent": 68,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 29.2,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 5.2,
+        "batteryPercent": 68,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 7.3,
+        "batteryPercent": 68,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 9.1,
+        "batteryPercent": 68,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 10.6,
+        "batteryPercent": 67,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 11.5,
+        "batteryPercent": 67,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 31.6,
+        "humidityPercent": 73.4,
+        "pressureHpa": 1006.5,
+        "rainfallMm": 12,
+        "batteryPercent": 67,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 31.8,
+        "humidityPercent": 71.4,
+        "pressureHpa": 1005.8,
+        "rainfallMm": 11.9,
+        "batteryPercent": 67,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 31.9,
+        "humidityPercent": 69.4,
+        "pressureHpa": 1005.1,
+        "rainfallMm": 11.2,
+        "batteryPercent": 67,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 31.9,
+        "humidityPercent": 67.6,
+        "pressureHpa": 1004.5,
+        "rainfallMm": 10,
+        "batteryPercent": 67,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 31.7,
+        "humidityPercent": 66.1,
+        "pressureHpa": 1003.9,
+        "rainfallMm": 8.4,
+        "batteryPercent": 66,
+        "rssiDbm": -84
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 31.5,
+        "humidityPercent": 65,
+        "pressureHpa": 1003.4,
+        "rainfallMm": 6.4,
+        "batteryPercent": 66,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 31.1,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1002.9,
+        "rainfallMm": 4.3,
+        "batteryPercent": 66,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 64,
+        "pressureHpa": 1002.5,
+        "rainfallMm": 2,
+        "batteryPercent": 66,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 30.1,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1002.2,
+        "rainfallMm": 0,
+        "batteryPercent": 66,
+        "rssiDbm": -83
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 29.6,
+        "humidityPercent": 65,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 66,
+        "rssiDbm": -84
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-025",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 25,
+        "humidityPercent": 69.8,
+        "pressureHpa": 1009,
+        "rainfallMm": 0,
+        "batteryPercent": 86,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 25.1,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 0,
+        "batteryPercent": 86,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 25.3,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 0,
+        "batteryPercent": 86,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 25.7,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 0,
+        "batteryPercent": 86,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 26.1,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 86,
+        "rssiDbm": -92
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 86,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 0,
+        "batteryPercent": 85,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 1.8,
+        "batteryPercent": 85,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 28.3,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 4,
+        "batteryPercent": 85,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 28.9,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 6.2,
+        "batteryPercent": 85,
+        "rssiDbm": -92
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 8.3,
+        "batteryPercent": 85,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 30,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 10.1,
+        "batteryPercent": 85,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 11.6,
+        "batteryPercent": 84,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 73.4,
+        "pressureHpa": 1006.5,
+        "rainfallMm": 12.5,
+        "batteryPercent": 84,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 71.4,
+        "pressureHpa": 1005.8,
+        "rainfallMm": 13,
+        "batteryPercent": 84,
+        "rssiDbm": -92
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 69.4,
+        "pressureHpa": 1005.1,
+        "rainfallMm": 12.9,
+        "batteryPercent": 84,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 67.6,
+        "pressureHpa": 1004.5,
+        "rainfallMm": 12.2,
+        "batteryPercent": 84,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 30.8,
+        "humidityPercent": 66.1,
+        "pressureHpa": 1003.9,
+        "rainfallMm": 11,
+        "batteryPercent": 84,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 30.6,
+        "humidityPercent": 65,
+        "pressureHpa": 1003.4,
+        "rainfallMm": 9.4,
+        "batteryPercent": 83,
+        "rssiDbm": -91
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 30.2,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1002.9,
+        "rainfallMm": 7.4,
+        "batteryPercent": 83,
+        "rssiDbm": -92
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 64,
+        "pressureHpa": 1002.5,
+        "rainfallMm": 5.3,
+        "batteryPercent": 83,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 29.2,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1002.2,
+        "rainfallMm": 3,
+        "batteryPercent": 83,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 28.7,
+        "humidityPercent": 65,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0.8,
+        "batteryPercent": 83,
+        "rssiDbm": -90
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 66.2,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 83,
+        "rssiDbm": -91
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-026",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 25.4,
+        "humidityPercent": 71.7,
+        "pressureHpa": 1009.4,
+        "rainfallMm": 0,
+        "batteryPercent": 33,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 25.6,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 0,
+        "batteryPercent": 33,
+        "rssiDbm": -96
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 26,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 0,
+        "batteryPercent": 33,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 26.4,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 33,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 26.9,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 33,
+        "rssiDbm": -99
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 0,
+        "batteryPercent": 33,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 0,
+        "batteryPercent": 32,
+        "rssiDbm": -96
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 28.6,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 0,
+        "batteryPercent": 32,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 29.2,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 0,
+        "batteryPercent": 32,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 2.2,
+        "batteryPercent": 32,
+        "rssiDbm": -99
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 30.3,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 4.3,
+        "batteryPercent": 32,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 6.1,
+        "batteryPercent": 32,
+        "rssiDbm": -96
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 73.4,
+        "pressureHpa": 1006.5,
+        "rainfallMm": 7.6,
+        "batteryPercent": 31,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 31.2,
+        "humidityPercent": 71.4,
+        "pressureHpa": 1005.8,
+        "rainfallMm": 8.5,
+        "batteryPercent": 31,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 69.4,
+        "pressureHpa": 1005.1,
+        "rainfallMm": 9,
+        "batteryPercent": 31,
+        "rssiDbm": -99
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 67.6,
+        "pressureHpa": 1004.5,
+        "rainfallMm": 8.9,
+        "batteryPercent": 31,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 31.1,
+        "humidityPercent": 66.1,
+        "pressureHpa": 1003.9,
+        "rainfallMm": 8.2,
+        "batteryPercent": 31,
+        "rssiDbm": -96
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 65,
+        "pressureHpa": 1003.4,
+        "rainfallMm": 7,
+        "batteryPercent": 31,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 30.5,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1002.9,
+        "rainfallMm": 5.4,
+        "batteryPercent": 30,
+        "rssiDbm": -98
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 30.1,
+        "humidityPercent": 64,
+        "pressureHpa": 1002.5,
+        "rainfallMm": 3.4,
+        "batteryPercent": 30,
+        "rssiDbm": -99
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1002.2,
+        "rainfallMm": 1.3,
+        "batteryPercent": 30,
+        "rssiDbm": -95
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 29,
+        "humidityPercent": 65,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 0,
+        "batteryPercent": 30,
+        "rssiDbm": -96
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 28.4,
+        "humidityPercent": 66.2,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 30,
+        "rssiDbm": -97
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 67.7,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 30,
+        "rssiDbm": -98
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-027",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 73.7,
+        "pressureHpa": 1009.7,
+        "rainfallMm": 0,
+        "batteryPercent": 50,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 26.3,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 0,
+        "batteryPercent": 50,
+        "rssiDbm": -103
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 26.7,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 50,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 50,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 0,
+        "batteryPercent": 50,
+        "rssiDbm": -106
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 28.4,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 0,
+        "batteryPercent": 50,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 28.9,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 0,
+        "batteryPercent": 49,
+        "rssiDbm": -103
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 0,
+        "batteryPercent": 49,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 30.1,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 1,
+        "batteryPercent": 49,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 30.6,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 3.2,
+        "batteryPercent": 49,
+        "rssiDbm": -106
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 5.3,
+        "batteryPercent": 49,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 73.4,
+        "pressureHpa": 1006.5,
+        "rainfallMm": 7.1,
+        "batteryPercent": 49,
+        "rssiDbm": -103
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 31.5,
+        "humidityPercent": 71.4,
+        "pressureHpa": 1005.8,
+        "rainfallMm": 8.6,
+        "batteryPercent": 48,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 31.6,
+        "humidityPercent": 69.4,
+        "pressureHpa": 1005.1,
+        "rainfallMm": 9.5,
+        "batteryPercent": 48,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 31.6,
+        "humidityPercent": 67.6,
+        "pressureHpa": 1004.5,
+        "rainfallMm": 10,
+        "batteryPercent": 48,
+        "rssiDbm": -106
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 31.4,
+        "humidityPercent": 66.1,
+        "pressureHpa": 1003.9,
+        "rainfallMm": 9.9,
+        "batteryPercent": 48,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 31.2,
+        "humidityPercent": 65,
+        "pressureHpa": 1003.4,
+        "rainfallMm": 9.2,
+        "batteryPercent": 48,
+        "rssiDbm": -103
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 30.8,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1002.9,
+        "rainfallMm": 8,
+        "batteryPercent": 48,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 64,
+        "pressureHpa": 1002.5,
+        "rainfallMm": 6.4,
+        "batteryPercent": 47,
+        "rssiDbm": -105
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1002.2,
+        "rainfallMm": 4.4,
+        "batteryPercent": 47,
+        "rssiDbm": -106
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 29.3,
+        "humidityPercent": 65,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 2.3,
+        "batteryPercent": 47,
+        "rssiDbm": -102
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 28.7,
+        "humidityPercent": 66.2,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 47,
+        "rssiDbm": -103
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 67.7,
+        "pressureHpa": 1002,
+        "rainfallMm": 0,
+        "batteryPercent": 47,
+        "rssiDbm": -104
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 69.5,
+        "pressureHpa": 1002.2,
+        "rainfallMm": 0,
+        "batteryPercent": 47,
+        "rssiDbm": -105
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-028",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 75.6,
+        "pressureHpa": 1009.9,
+        "rainfallMm": 0,
+        "batteryPercent": 67,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 27,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 67,
+        "rssiDbm": -110
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 67,
+        "rssiDbm": -111
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 0,
+        "batteryPercent": 67,
+        "rssiDbm": -112
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 28.7,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 0,
+        "batteryPercent": 67,
+        "rssiDbm": -113
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 29.2,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 0,
+        "batteryPercent": 67,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 0,
+        "batteryPercent": 66,
+        "rssiDbm": -110
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 0,
+        "batteryPercent": 66,
+        "rssiDbm": -111
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 2,
+        "batteryPercent": 66,
+        "rssiDbm": -112
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 4.2,
+        "batteryPercent": 66,
+        "rssiDbm": -113
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 31.6,
+        "humidityPercent": 73.4,
+        "pressureHpa": 1006.5,
+        "rainfallMm": 6.3,
+        "batteryPercent": 66,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 31.8,
+        "humidityPercent": 71.4,
+        "pressureHpa": 1005.8,
+        "rainfallMm": 8.1,
+        "batteryPercent": 66,
+        "rssiDbm": -110
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 31.9,
+        "humidityPercent": 69.4,
+        "pressureHpa": 1005.1,
+        "rainfallMm": 9.6,
+        "batteryPercent": 65,
+        "rssiDbm": -111
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 31.9,
+        "humidityPercent": 67.6,
+        "pressureHpa": 1004.5,
+        "rainfallMm": 10.5,
+        "batteryPercent": 65,
+        "rssiDbm": -112
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 31.7,
+        "humidityPercent": 66.1,
+        "pressureHpa": 1003.9,
+        "rainfallMm": 11,
+        "batteryPercent": 65,
+        "rssiDbm": -113
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 31.5,
+        "humidityPercent": 65,
+        "pressureHpa": 1003.4,
+        "rainfallMm": 10.9,
+        "batteryPercent": 65,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 31.1,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1002.9,
+        "rainfallMm": 10.2,
+        "batteryPercent": 65,
+        "rssiDbm": -110
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 64,
+        "pressureHpa": 1002.5,
+        "rainfallMm": 9,
+        "batteryPercent": 65,
+        "rssiDbm": -111
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 30.1,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1002.2,
+        "rainfallMm": 7.4,
+        "batteryPercent": 64,
+        "rssiDbm": -112
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 29.6,
+        "humidityPercent": 65,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 5.4,
+        "batteryPercent": 64,
+        "rssiDbm": -113
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 29,
+        "humidityPercent": 66.2,
+        "pressureHpa": 1002,
+        "rainfallMm": 3.3,
+        "batteryPercent": 64,
+        "rssiDbm": -109
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 28.4,
+        "humidityPercent": 67.7,
+        "pressureHpa": 1002,
+        "rainfallMm": 1,
+        "batteryPercent": 64,
+        "rssiDbm": -110
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 69.5,
+        "pressureHpa": 1002.2,
+        "rainfallMm": 0,
+        "batteryPercent": 64,
+        "rssiDbm": -111
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 27.3,
+        "humidityPercent": 71.5,
+        "pressureHpa": 1002.5,
+        "rainfallMm": 0,
+        "batteryPercent": 64,
+        "rssiDbm": -112
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-029",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 26.1,
+        "humidityPercent": 77.3,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 84,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 26.6,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 84,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 0,
+        "batteryPercent": 84,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 0,
+        "batteryPercent": 84,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 28.3,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 0,
+        "batteryPercent": 84,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 28.9,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 0,
+        "batteryPercent": 84,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 0,
+        "batteryPercent": 83,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 30,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 0.8,
+        "batteryPercent": 83,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 30.4,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 3,
+        "batteryPercent": 83,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 73.4,
+        "pressureHpa": 1006.5,
+        "rainfallMm": 5.2,
+        "batteryPercent": 83,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 71.4,
+        "pressureHpa": 1005.8,
+        "rainfallMm": 7.3,
+        "batteryPercent": 83,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 69.4,
+        "pressureHpa": 1005.1,
+        "rainfallMm": 9.1,
+        "batteryPercent": 83,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 67.6,
+        "pressureHpa": 1004.5,
+        "rainfallMm": 10.6,
+        "batteryPercent": 82,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 30.8,
+        "humidityPercent": 66.1,
+        "pressureHpa": 1003.9,
+        "rainfallMm": 11.5,
+        "batteryPercent": 82,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 30.6,
+        "humidityPercent": 65,
+        "pressureHpa": 1003.4,
+        "rainfallMm": 12,
+        "batteryPercent": 82,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 30.2,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1002.9,
+        "rainfallMm": 11.9,
+        "batteryPercent": 82,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 64,
+        "pressureHpa": 1002.5,
+        "rainfallMm": 11.2,
+        "batteryPercent": 82,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 29.2,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1002.2,
+        "rainfallMm": 10,
+        "batteryPercent": 82,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 28.7,
+        "humidityPercent": 65,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 8.4,
+        "batteryPercent": 81,
+        "rssiDbm": -81
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 66.2,
+        "pressureHpa": 1002,
+        "rainfallMm": 6.4,
+        "batteryPercent": 81,
+        "rssiDbm": -82
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 67.7,
+        "pressureHpa": 1002,
+        "rainfallMm": 4.3,
+        "batteryPercent": 81,
+        "rssiDbm": -78
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 26.9,
+        "humidityPercent": 69.5,
+        "pressureHpa": 1002.2,
+        "rainfallMm": 2,
+        "batteryPercent": 81,
+        "rssiDbm": -79
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 26.4,
+        "humidityPercent": 71.5,
+        "pressureHpa": 1002.5,
+        "rainfallMm": 0,
+        "batteryPercent": 81,
+        "rssiDbm": -80
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 25.9,
+        "humidityPercent": 73.5,
+        "pressureHpa": 1002.8,
+        "rainfallMm": 0,
+        "batteryPercent": 81,
+        "rssiDbm": -81
+      }
+    ]
+  },
+  {
+    "nodeId": "LN-030",
+    "records": [
+      {
+        "timestamp": "2025-07-14T00:00:00.000Z",
+        "temperatureC": 26.9,
+        "humidityPercent": 78.6,
+        "pressureHpa": 1010,
+        "rainfallMm": 0,
+        "batteryPercent": 31,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T01:00:00.000Z",
+        "temperatureC": 27.5,
+        "humidityPercent": 79.5,
+        "pressureHpa": 1009.8,
+        "rainfallMm": 0,
+        "batteryPercent": 31,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T02:00:00.000Z",
+        "temperatureC": 28.1,
+        "humidityPercent": 80,
+        "pressureHpa": 1009.6,
+        "rainfallMm": 0,
+        "batteryPercent": 31,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T03:00:00.000Z",
+        "temperatureC": 28.6,
+        "humidityPercent": 79.9,
+        "pressureHpa": 1009.3,
+        "rainfallMm": 0,
+        "batteryPercent": 31,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T04:00:00.000Z",
+        "temperatureC": 29.2,
+        "humidityPercent": 79.4,
+        "pressureHpa": 1008.8,
+        "rainfallMm": 0,
+        "batteryPercent": 31,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T05:00:00.000Z",
+        "temperatureC": 29.8,
+        "humidityPercent": 78.4,
+        "pressureHpa": 1008.3,
+        "rainfallMm": 0,
+        "batteryPercent": 31,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T06:00:00.000Z",
+        "temperatureC": 30.3,
+        "humidityPercent": 77,
+        "pressureHpa": 1007.7,
+        "rainfallMm": 0,
+        "batteryPercent": 30,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T07:00:00.000Z",
+        "temperatureC": 30.7,
+        "humidityPercent": 75.3,
+        "pressureHpa": 1007.1,
+        "rainfallMm": 1.8,
+        "batteryPercent": 30,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T08:00:00.000Z",
+        "temperatureC": 31,
+        "humidityPercent": 73.4,
+        "pressureHpa": 1006.5,
+        "rainfallMm": 4,
+        "batteryPercent": 30,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T09:00:00.000Z",
+        "temperatureC": 31.2,
+        "humidityPercent": 71.4,
+        "pressureHpa": 1005.8,
+        "rainfallMm": 6.2,
+        "batteryPercent": 30,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T10:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 69.4,
+        "pressureHpa": 1005.1,
+        "rainfallMm": 8.3,
+        "batteryPercent": 30,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T11:00:00.000Z",
+        "temperatureC": 31.3,
+        "humidityPercent": 67.6,
+        "pressureHpa": 1004.5,
+        "rainfallMm": 10.1,
+        "batteryPercent": 30,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T12:00:00.000Z",
+        "temperatureC": 31.1,
+        "humidityPercent": 66.1,
+        "pressureHpa": 1003.9,
+        "rainfallMm": 11.6,
+        "batteryPercent": 29,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T13:00:00.000Z",
+        "temperatureC": 30.9,
+        "humidityPercent": 65,
+        "pressureHpa": 1003.4,
+        "rainfallMm": 12.5,
+        "batteryPercent": 29,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T14:00:00.000Z",
+        "temperatureC": 30.5,
+        "humidityPercent": 64.2,
+        "pressureHpa": 1002.9,
+        "rainfallMm": 13,
+        "batteryPercent": 29,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T15:00:00.000Z",
+        "temperatureC": 30.1,
+        "humidityPercent": 64,
+        "pressureHpa": 1002.5,
+        "rainfallMm": 12.9,
+        "batteryPercent": 29,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T16:00:00.000Z",
+        "temperatureC": 29.5,
+        "humidityPercent": 64.3,
+        "pressureHpa": 1002.2,
+        "rainfallMm": 12.2,
+        "batteryPercent": 29,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T17:00:00.000Z",
+        "temperatureC": 29,
+        "humidityPercent": 65,
+        "pressureHpa": 1002.1,
+        "rainfallMm": 11,
+        "batteryPercent": 29,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T18:00:00.000Z",
+        "temperatureC": 28.4,
+        "humidityPercent": 66.2,
+        "pressureHpa": 1002,
+        "rainfallMm": 9.4,
+        "batteryPercent": 28,
+        "rssiDbm": -88
+      },
+      {
+        "timestamp": "2025-07-14T19:00:00.000Z",
+        "temperatureC": 27.8,
+        "humidityPercent": 67.7,
+        "pressureHpa": 1002,
+        "rainfallMm": 7.4,
+        "batteryPercent": 28,
+        "rssiDbm": -89
+      },
+      {
+        "timestamp": "2025-07-14T20:00:00.000Z",
+        "temperatureC": 27.2,
+        "humidityPercent": 69.5,
+        "pressureHpa": 1002.2,
+        "rainfallMm": 5.3,
+        "batteryPercent": 28,
+        "rssiDbm": -85
+      },
+      {
+        "timestamp": "2025-07-14T21:00:00.000Z",
+        "temperatureC": 26.7,
+        "humidityPercent": 71.5,
+        "pressureHpa": 1002.5,
+        "rainfallMm": 3,
+        "batteryPercent": 28,
+        "rssiDbm": -86
+      },
+      {
+        "timestamp": "2025-07-14T22:00:00.000Z",
+        "temperatureC": 26.2,
+        "humidityPercent": 73.5,
+        "pressureHpa": 1002.8,
+        "rainfallMm": 0.8,
+        "batteryPercent": 28,
+        "rssiDbm": -87
+      },
+      {
+        "timestamp": "2025-07-14T23:00:00.000Z",
+        "temperatureC": 25.8,
+        "humidityPercent": 75.4,
+        "pressureHpa": 1003.2,
+        "rainfallMm": 0,
+        "batteryPercent": 28,
+        "rssiDbm": -88
+      }
+    ]
+  }
+]
